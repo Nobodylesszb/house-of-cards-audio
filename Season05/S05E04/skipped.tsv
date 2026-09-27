@@ -1,0 +1,4 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:00.000	00:03:45.420			片头与无有效对白区间	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-opening
+SK02	scene	00:03:56.270	00:04:06.150	...division rivals. The fighting was quite a spectacle but, unfortunately for hockey fans, that was just about the only action to be seen in last night's game.	...赛区对手 这场斗殴很有看点 但对冰球迷来说 不幸的是 那是昨晚比赛中 唯一的看点	与选举主线无关的冰球新闻填充	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0005–0009
+SK03	scene	00:16:40.250	00:16:50.790	Your phone. Can somebody give me a second today, you know? Shit. Excuse me. Hello?	你的电话 今天有人能让我消停一会儿吗 该死 失陪一下 你好	电话响起与接听的纯转场对白，脱离画面无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0219–0222

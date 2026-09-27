@@ -1,0 +1,15 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:03:45.950	00:03:48.950	House of Cards Season 5 Episode 12	纸牌屋 第五季 第十二集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	fragment	00:06:53.980	00:06:57.650	Oh, and reminder, we have to get back to the Soldier Recovery Project.	另外 我们得继续士兵康复项目	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0074–0075
+SK03	fragment	00:14:04.390	00:14:07.300	Oh, if you don't mind, we'd like this room for a moment.	如果你不介意  我们想用一下这个房间	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0206–0206
+SK04	fragment	00:31:11.550	00:31:12.770	Make yourself at home.	别客气	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0499–0499
+SK05	fragment	00:34:42.960	00:34:44.480	I don't know what to do.	我不知道该怎么办	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0547–0547
+SK06	fragment	00:35:17.840	00:35:20.280	- Why won't you kiss me? - I wanna look at you.	-你为什么不吻我  -我想看着你	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0554–0554
+SK07	fragment	00:35:57.330	00:35:58.870	Help. Help.	救命  救命	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0561–0561
+SK08	fragment	00:36:14.590	00:36:15.520	Tom?	汤姆	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0562–0562
+SK09	fragment	00:40:49.800	00:40:51.430	I'm tired. I'm going to bed.	我累了  我去睡了	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0622–0622
+SK10	scene	00:06:53.980	00:06:57.650	Oh, and reminder, we have to get back to the Soldier Recovery Project.	另外 我们得继续士兵康复项目	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0074–0075
+SK11	scene	00:14:04.390	00:14:07.300	Oh, if you don't mind, we'd like this room for a moment.	如果你不介意  我们想用一下这个房间	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0206–0206
+SK12	scene	00:17:52.980	00:18:00.010	I have your gun, by the way. - Good night. - Yes, good night.	顺便说一句  你的枪在我这里 -晚安  -没错  晚安	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0279–0280
+SK13	scene	00:31:11.550	00:31:12.770	Make yourself at home.	别客气	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0499–0499
+SK14	scene	00:34:42.960	00:34:44.480	I don't know what to do.	我不知道该怎么办	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0547–0547

@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:07.580	00:01:31.980		字幕组制作署名	字幕制作信息	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:02:27.120	00:02:30.120		纸牌屋 第五季 第九集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	on-screen-text	00:02:41.590	00:03:40.190		安德伍德拿下俄亥俄；康威将认输	新闻画面标题而非口语对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-election-headline
+SK04	fragment	00:06:22.380	00:06:47.790	They're ready for you. - Hannah. - I don't want to go. No.	他们准备好了 -汉娜  -我不想去 不	零散候场对白，缺乏独立闭环	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0073–0075
+SK05	on-screen-text	00:08:02.660	00:08:14.090		国务卿辞职信	文件画面文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-resignation
+SK06	on-screen-text	00:19:41.200	00:19:43.610		马克·厄舍被任命为总统特别顾问	新闻画面标题	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-usher-title
+SK07	on-screen-text	00:21:19.880	00:21:25.880		众议院纪律委员会传票与日程	文件画面文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-subpoena
+SK08	on-screen-text	00:25:32.840	00:25:40.390		弗兰西斯·安德伍德就职典礼	直播画面标题	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-inauguration
+SK09	fragment	00:36:08.460	00:36:11.200	- What are you doing? - Oh, I'm sorry.	-你干什么  -对不起	单句动作过场，语义依赖后续场景	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0569
+SK10	fragment	00:37:23.720	00:37:26.260	Congratulations, Mr. President.	恭喜  总统先生	单句祝贺过场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0580
+SK11	on-screen-text	00:49:20.510	00:49:24.180		崭露头角的记者在华盛顿特区惨遭地铁事故身亡；2013年11月5日	剪报画面文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-zoe-clipping
+SK12	metadata	00:52:30.230	00:54:30.230		美国内阁与医保改革背景说明	片尾字幕组知识卡，不属于剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-explainer

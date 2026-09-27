@@ -1,0 +1,4 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:02:11.650	00:03:35.000			字幕制作与片头	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	scene	00:28:52.030	00:28:57.090	Uh, Bridget, total non sequitur... You have a very elegant neck.	布莉姬特 说句题外话 你的脖子真美	与证人交易无关的外貌寒暄	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0473–0474
+SK03	scene	00:48:46.890	00:48:47.900	We off?	下线了吗	直播结束确认的单句过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0743

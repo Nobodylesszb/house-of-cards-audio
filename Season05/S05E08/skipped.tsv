@@ -1,0 +1,4 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:00.000	00:01:41.300			片头与无有效对白区间	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-opening
+SK02	scene	00:33:31.160	00:33:34.340	Why not do it now? We need to wait for the president.	为什么不现在动手 我们要等总统回来	是否立即放料的重复确认，信息在相邻主场景中已完整表达	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0528–0529
+SK03	scene	00:36:17.990	00:36:22.910	Here, give me that. Go.	来 给我 走吧	递交物品与离场的纯动作转场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0570–0571

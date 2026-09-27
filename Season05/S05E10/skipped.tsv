@@ -1,0 +1,15 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:02:17.120	00:02:20.120	House of Cards Season 5 Episode 10	纸牌屋 第五季 第十集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	fragment	00:15:38.910	00:15:39.790	Lisa!	丽萨	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0226–0226
+SK03	fragment	00:16:38.870	00:16:40.110	I miss her, you know?	我想她  你知道吗	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0238–0238
+SK04	fragment	00:16:47.720	00:16:48.600	I'm sorry.	抱歉	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0239–0239
+SK05	fragment	00:23:19.640	00:23:20.700	A war.	开战	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0353–0353
+SK06	fragment	00:42:20.830	00:42:24.640	You don't scare me. I should.	我不怕你 你该怕	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0652–0653
+SK07	fragment	00:43:29.290	00:43:30.580	Well, all right, then.	那好吧	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0669–0669
+SK08	fragment	00:45:41.080	00:45:45.070	If you could get me Doug Stamper's addresses for the last three years...	能麻烦你把道格·斯坦普过去三年 住过的所有地址给我...	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0689–0690
+SK09	fragment	00:52:34.910	00:52:37.960	LeAnn, if you're hearing this, it means that I'm dead.	莉安  如果你听到这个  说明我死了	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0803–0803
+SK10	scene	00:15:38.910	00:15:39.790	Lisa!	丽萨	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0226–0226
+SK11	scene	00:16:38.870	00:16:40.110	I miss her, you know?	我想她  你知道吗	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0238–0238
+SK12	scene	00:16:47.720	00:16:48.600	I'm sorry.	抱歉	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0239–0239
+SK13	scene	00:17:20.740	00:17:25.380	You going to answer that? So, was I right? Your phone is ringing.	你不接吗 我说得对吗 你的电话响了	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0240–0242
+SK14	scene	00:23:19.640	00:23:20.700	A war.	开战	低信息短场景，保留审核记录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0353–0353

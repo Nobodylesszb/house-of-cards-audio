@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:45.080	00:02:11.440		字幕组制作署名	字幕制作信息	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:03:04.620	00:03:07.620		纸牌屋 第五季 第六集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	on-screen-text	00:10:19.800	00:10:41.200		克莱尔·安德伍德；美国代总统；特许安全权限；弗兰西斯·安德伍德	文件画面文字而非口语对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-document
+SK04	on-screen-text	00:12:51.750	00:13:36.040		旧友/新敌来信与燃气爆炸内部备忘录	屏幕文字已由剧情口语承接	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-leak-screen
+SK05	fragment	00:10:10.490	00:10:12.880	One more thing for your signature.	还有一份需要您签字	单句签字过场，语境不足	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0159
+SK06	fragment	00:10:27.250	00:10:45.210	- You can leave this with me. - Of course. - And Miss Harvey's waiting. - Oh, please send her in. I'm on my way back to Rayburn. You close the door, please?	-放在这里就可以了  -好的 -哈维女士在等您  -请让她进来 我正要回雷伯恩大楼 请关上门	办公室进出衔接，无独立学习闭环	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0160–0163
+SK07	on-screen-text	00:15:46.300	00:15:49.130		安东尼·莫雷蒂 两次通话	手机画面文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-phone
+SK08	fragment	00:14:40.540	00:15:10.240	I need five minutes with this. - Open or closed? - Closed. Am I good with that statement? I marked it up. It's on my desk.	我需要五分钟审阅 -给你关门吗  -关 我那份声明怎么样 我做好标记了  在我桌子上	审稿与关门动作过场，信息量有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0233–0236
+SK09	on-screen-text	00:34:00.560	00:34:02.390		安东尼·莫雷蒂纪念基金	画面标注而非对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-foundation
+SK10	on-screen-text	00:36:51.430	00:36:57.940		雅加达星报	报纸标题画面	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-newspaper
+SK11	on-screen-text	00:49:07.710	00:49:14.260		道格·斯坦普；瑞秋·波斯纳	照片背面文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-photo
+SK12	metadata	00:53:28.210	00:55:28.210		最高法院任命与正副总统跨党派背景说明	片尾字幕组知识卡，不属于剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-explainer

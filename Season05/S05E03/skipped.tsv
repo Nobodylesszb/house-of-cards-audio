@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:10.000	00:01:41.120		字幕组制作署名	字幕制作信息	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:02:29.540	00:02:32.540		纸牌屋 第五季 第三集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	on-screen-text	00:03:33.350	00:03:43.700		战争不是儿戏；波利跳	广告画面文字而非口语对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-ad-graphic
+SK04	on-screen-text	00:04:08.600	00:04:14.150		威尔·康威与美国面对面；俄亥俄州克利夫兰；#问康威	直播角标而非口语对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-livestream-lower-third
+SK05	fragment	00:06:24.530	00:06:26.390	Are you calling Francis old?	你是说弗兰西斯老了吗	孤立的短过场，语境不足	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0082
+SK06	fragment	00:07:14.210	00:07:17.090	Thank you. Thank you, Nevada!	谢谢  谢谢你们  内华达	仅为集会衔接短句	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0090
+SK07	fragment	00:15:11.840	00:15:18.100	How's the President doing? He's acting like he's still 30 years old.	总统怎么样 他还把自己当个年轻人	简短健康询问，迁移价值有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0251–0252
+SK08	fragment	00:17:07.740	00:17:09.270	You got my vote!	我选你	单句欢呼，无独立学习语境	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0282
+SK09	fragment	00:20:58.000	00:21:01.080	Fine. Hang it up.	好吧  挂电话吧	单句电话动作，无独立语义闭环	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0347
+SK10	fragment	00:39:37.270	00:39:39.380	- Thank you so very much. - Thank you, sir.	-非常感谢  -谢谢  先生	礼貌致谢过场，语言价值有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0578
+SK11	on-screen-text	00:49:53.380	00:49:58.090		电影海报画面文字	画面标注而非对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-film-poster
+SK12	metadata	00:50:34.130	00:51:34.130		退伍军人福利背景说明	片尾字幕组知识卡，不属于剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-explainer

@@ -1,0 +1,15 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:08:20.860	00:08:23.860	House of Cards Season 5 Episode 1	纸牌屋 第五季 第一集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	frank-aside	00:09:03.100	00:09:04.600	My fans.	我的粉丝	已识别 Frank 对镜短句；信息量低且依赖画面	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0122
+SK03	scene	00:02:04.040	00:02:05.380	Should we do one more?	我们要再拍一条吗	拍摄结束后的单句过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0024
+SK04	scene	00:18:30.170	00:18:38.030	Anything else? I have my script. I will not yield! I will not...	还有别的吗 我有我的稿子 我不会退让 我不会	排练口号的短促残段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0292–0295
+SK05	scene	00:21:43.070	00:21:53.920	Okay. What kind of kiss do you want? - Eskimo. - In... and out. I'll be right back.	好了  你想要什么样的吻 -爱斯基摩  -快进 快出 我就回来	亲子睡前互动，服务转场且学习密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0335–0338
+SK06	scene	00:25:16.560	00:25:34.250	- Mr. President. - It's all right, Officer. Ma'am. May I have your scope? Scope on your gun. I promise I'll give it back. Thank you. Come here.	-总统先生  -没事  警官 夫人 能给我你的目镜吗 你枪上的目镜  我保证还回来 谢谢  过来	借用瞄准镜前的礼貌性操作对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0389–0393
+SK07	scene	00:27:05.250	00:27:22.480	Thank you, sir. I'll see you in the morning. Do you have a smoke? Thank you.	谢谢  先生 我们明早见 你有烟吗 谢谢	告别与借烟的低信息过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0414–0417
+SK08	scene	00:37:52.130	00:37:53.450	Just go away!	走开	记者包围前的孤立喊声	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0580
+SK09	fragment	00:39:37.880	00:39:41.410	...this after ten years with Treasury, he was waiting for it. Yeah...	在财政部干了10年  他正等着呢 是啊	场景切换后的残缺闲谈	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0586–0587
+SK10	scene	00:43:19.410	00:43:26.710	You're lucky this is coming off with water. Could've been worse. Some found its way behind your ear.	幸好这个水能洗掉 可能会更糟呢 有点溅到你耳朵后面了	清洗油漆的动作性过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0624–0626
+SK11	scene	00:44:48.160	00:44:58.800	The capture of Joshua Masterson may be close at hand. The FBI is still not commenting, but if you look at this aerial view, you can see heavily-armed men making their way through this wooded area.	约书亚·马斯特森可能很快将被捕 联调局仍未就此发表评论 但请看航拍情况 可以看到全副武装的人 正在林间穿行	重复航拍报道，新增信息有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0649–0653
+SK12	scene	00:46:43.550	00:46:48.560	Josh. Joshua.	约书 约书亚	审讯开场仅重复嫌犯姓名	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0664–0665
+SK13	scene	00:52:07.950	00:52:33.630	Let's go for a walk. Mr. President!	我们去走走吧 总统先生	走向人群与记者呼喊的过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0750–0751
+SK14	frank-aside	00:52:37.810	00:52:39.640	Tell them what they need to know.	说出他们想听的	已识别结尾对镜式短句；信息量低，随后公众表演另存档	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0752

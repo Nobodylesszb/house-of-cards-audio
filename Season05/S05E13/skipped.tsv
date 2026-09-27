@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:02:21.700	00:02:54.980			片头字幕与无有效对白区间	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:03:41.240	00:03:44.240			剧集标题卡，不属于可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title
+SK03	metadata	00:18:27.080	00:18:32.000			辞职信画面文字，不属于连续口语	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-resignation-letter
+SK04	metadata	00:18:52.360	00:19:36.400			电视新闻标题与画面文字，核心对白已归档	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-romero-headline
+SK05	scene	00:14:43.340	00:14:45.570	I wanted to hand this to you while you were still president.	我想在您还是总统时  把这个交给您	孤立交接短句，脱离场景无独立训练价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0213
+SK06	scene	00:20:02.760	00:20:05.730	- When do you meet with the US attorney? - Day after tomorrow.	-你什么时候见联邦检察官  -后天	单句转场，信息由相邻完整场景承载	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0272
+SK07	scene	00:33:25.550	00:33:26.710	Here you go.	给	递物短句，无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0470
+SK08	metadata	00:46:16.460	00:46:18.380			人物姓名画面文字，不属于可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-doug-name
+SK09	metadata	00:51:39.990	00:51:42.370			抗议新闻标题画面文字，不属于连续口语	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-protest-headline
+SK10	metadata	00:53:55.920	00:53:58.340			人物姓名画面文字，不属于可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-francis-name
+SK11	metadata	00:54:18.520	00:55:18.520			片尾中文说明卡，不属于剧集对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-explainer-1
+SK12	metadata	00:55:18.520	00:56:18.520			片尾中文说明卡，不属于剧集对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-explainer-2

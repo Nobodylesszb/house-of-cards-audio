@@ -1,0 +1,4 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:02:11.360	00:03:53.640			片头字幕与无有效对白区间	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	scene	00:39:26.680	00:39:28.240	Yes, Mrs. Underwood.	好 安德伍德夫人	单句接听确认，脱离画面无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0567
+SK03	scene	00:39:55.360	00:40:14.930	Don't worry. This never happened. You don't have to tell me. - Doug. - Shit. Should I come in? No. Not until you give me what you've got.	别担心 这事没发生过 不用你告诉我 -道格 -该死 我该过去吗 不 除非你把你手里的东西给我	隐秘会面后的简短确认与门外转场，核心信息在后续场景展开	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0568–0572
