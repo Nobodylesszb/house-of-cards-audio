@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:05:13.570	00:05:36.570		字幕翻译、顾问、校对与总监署名	字幕制作信息，不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:06:30.390	00:06:33.140		纸牌屋 第二季 第十集	片头标题卡，不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:03:58.200	00:04:45.230	Do you see that? ... Stay right where you are.	看到了吗……站住别动	监控和抓捕口令以动作推进为主	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0058–0064
+SK04	scene	00:09:04.580	00:11:17.670	When did you get it? ... Finish.	你什么时候纹的……继续	包含露骨性行为与战场创伤披露	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0126–0153
+SK05	scene	00:12:32.450	00:12:51.960	The Pentagon is not talking yet. ... What does it mean?	五角大楼还没有发言……我过会儿打给你	媒体等待与电话过渡信息密度低 后续翻译推理已入档	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0189–0193
+SK06	scene	00:25:55.350	00:26:19.390	You will never believe what just happened. ... That is really funny.	你肯定猜不到刚才发生了什么……真是好笑	成人视频尴尬笑谈迁移价值有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0467–0475
+SK07	scene	00:00:39.600	00:00:42.830	Look at that, Cashew. Someone is being a bad boy.	看看 腰果 有人不听话了哟	开场宠物闲谈短且学习密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0001–0002
+SK08	scene	00:36:59.880	00:37:26.100	Were you...? ... tired of having to say it.	你是不是……但我厌倦了总要一遍遍地说	亲密关系质问含露骨措辞 前段权力争论已入档	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0730–0736
+SK09	scene	00:40:36.780	00:40:56.130	I have not finished with this one yet. ... Never, maam.	这瓶我还没喝完呢……永远不会 夫人	递酒与聚会过渡对白价值较低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0791–0797
+SK10	scene	00:47:38.850	00:48:02.700	Hello? ... Doug?	你好……道格	重复呼叫主要用于悬念氛围 最终确认句已入档	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0938–0942

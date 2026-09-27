@@ -1,0 +1,12 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:29.400	00:01:52.400		翻译、时间轴、后期、校对与总监署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:02:45.900	00:02:48.850		纸牌屋 第二季 第一集	片头标题卡，不纳入 Archive 或 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:04:18.690	00:05:13.060	I emptied it. You're another year older on Tuesday. And we can't have a vice president who smokes. ... This is safe, Zoe. I'm not him.	我拿走了。你周二又老一岁了。副总统不能抽烟。……这里很安全，佐伊，我不是他。	性关系余波与角色创伤高度剧情化；不进入首轮学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	033–046
+SK04	scene	00:14:00.500	00:14:43.710	Who the fuck do you think you are? ... Use a condom the next time you fuck somebody's husband.	你以为你是谁？……再跟别人老公上床记得戴套。	完整但含露骨辱骂和强剧情冲突；不进入 Archive/Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	223–243
+SK05	scene	00:18:04.650	00:18:33.140	Get out. Get out! Lower your voice. I'll fucking kill you. ... You have no idea how much danger you're in.	滚出去。滚出去！小点声。我杀了你。……你不知道自己现在多危险。	威胁性强且不可迁移；前段边界表达已独立保留，后段不再选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	308–314
+SK06	scene	00:28:30.550	00:29:15.270	Tried a new butcher. Slow-bleeds his hogs. ... Shovel right to the base of the head. No screaming.	换了一个新屠夫，慢慢地给猪放血。……对准后脑勺来上一锹，猪一声也不会吭。	图像化屠宰细节过重；仅保留前面的食物评价识别项。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	510–528
+SK07	scene	00:41:42.890	00:42:13.080	The incident occurred at approximately eight p.m. last night ... nomination for Secretary of State...	事故发生于昨晚八点左右……未能被提名国务卿的报道。	新闻回顾/人物履历信息密度低，不作为 Archive 练习段。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	694–704
+SK08	frank-aside-candidate	00:19:03.030	00:19:06.430	You know I ask every year. Nothing, as usual.	我每年都得问一句。不过生日，像往年一样。	检索到第一人称句但核对为 Frank 与 Claire 的场内对话，不是 direct-to-camera aside。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	316–317
+SK09	transition	00:44:33.850	00:44:41.520	Thank you, Christina. Gentlemen. Mr. President. How was Pennsylvania?	谢谢，克里斯蒂娜。先生们。总统先生，宾州情况怎么样？	场景切换与礼貌寒暄，缺少独立学习任务。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	751–753
+SK10	fragment	00:45:05.250	00:45:06.270	You like Indian?	喜欢印度菜吗？	孤立闲聊单句，信息量不足。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	754
+SK11	audio-tail	00:47:01.970	00:49:19.872		字幕在 00:47:01.970 后结束，MP3 仍有无字幕尾段。	不推断片尾音频中的对白或 Frank 独白边界。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail

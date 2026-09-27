@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:05:26.210	00:05:49.210		字幕翻译、顾问、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:06:43.030	00:06:45.780		纸牌屋 第二季 第十三集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:07:04.530	00:07:15.800	I think it is mine. ... When?	可能是我的手机……什么时候	凌晨来电与接听过渡 信息密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0119–0121
+SK04	scene	00:10:14.130	00:10:43.200	Yes? ... Now, you were saying.	什么事……那么 请继续	礼物送达与恢复谈话的程序性插曲	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0183–0187
+SK05	scene	00:10:47.710	00:13:31.660	I just want to warn you... Megan?	我得提醒你一下……梅根	涉及自伤 药物与强烈辱骂 仅作敏感剧情识别	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0188–0221
+SK06	scene	00:31:24.990	00:31:30.760	How is your brother enjoying working with the congressman? ... excuse me.	你哥哥在议员手下干得如何……我接个电话	进入总统来电前的短暂寒暄与过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0495–0496
+SK07	scene	00:34:02.010	00:34:06.290	Where is Danton? I will call his assistant.	丹顿在哪 我给他助理打电话	寻找人物的短促过渡对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0553–0554
+SK08	scene	00:35:53.960	00:36:02.030	Danton just canceled. ... Get me the attorney general.	丹顿刚刚取消了……接通司法部长	听证转场中的即时反应 已由完整证词段覆盖	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0590–0592
+SK09	scene	00:44:41.790	00:45:34.540	Rachel? Do not be stupid. ... What are you doing?	瑞秋 别做傻事……你干什么	追逐与暴力悬念主要依赖动作 不进入学习包	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0746–0755
+SK10	scene	00:53:48.360	00:53:52.460	Ladies and gentleman, the President and the first lady.	女士们先生们 有请总统先生和第一夫人	纯礼仪性介绍 学习价值低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0878–0879

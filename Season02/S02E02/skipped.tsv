@@ -1,0 +1,9 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:03:06.370	00:03:29.370		字幕制作信息	Metadata card, not a story line; no audio generated.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:04:23.190	00:04:25.940		第二季片头标题卡	Title card, not a learning line.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:20:39.920	00:21:20.790	Claire confronts Frank after recognizing McGinnis; the exchange contains explicit assault-related material.	克莱尔认出麦金尼斯后质问弗兰克，含露骨创伤与暴力相关内容。	Continuous but highly sensitive and plot-dependent; recognition-only, not Listening.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0434–0451
+SK04	scene	00:30:04.040	00:32:04.070	Claire recounts the assault and the violent coping image that follows.	克莱尔叙述遭遇及随后的暴力应对想象。	Sensitive trauma material; deliberately excluded from active practice and Extended.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0536–0558
+SK05	fragment	00:39:35.050	00:39:35.780	what they texted,		Isolated fragment without a complete thought; do not promote it.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0707
+SK06	metadata	00:46:01.720	00:46:21.120		片尾资料画面	Metadata screen after the final dialogue.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-card
+SK07	metadata	00:46:27.020	00:47:17.020		字幕组说明文字	Post-episode explanatory text, not dialogue.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-postscript
+SK08	audio-tail	00:45:39.570	00:48:40.392			MP3 continues after the final English dialogue; no subtitle-backed audio segment.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail

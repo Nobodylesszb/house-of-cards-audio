@@ -1,0 +1,23 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:04:17.380	00:05:45.000		字幕组署名与片头区段	非剧情台词；不进入 Archive 或 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits-title
+SK02	scene	00:08:41.230	00:09:01.990	Missed appointments. No contact in weeks. You know the rules. ... Look at the other screen, to the left.	失约 数周不联络 你知道规矩……看看左边的那块屏幕	黑客与执法人员的程序性争执较碎；后续数据中心杠杆段已保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0143–0150
+SK03	scene	00:13:52.100	00:14:23.200	This is Peter. He's the guy who drove me back. ... Peter.	这位是彼得 他开车送我回来的……彼得	搬运物品和礼貌寒暄，学习任务弱；邻居搭电片段已保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0241–0254
+SK04	scene	00:14:50.380	00:14:57.160	Is everything okay? ... We all need a good Samaritan every now and again.	没事吧……我们都需要好心人帮忙	邻居告别寒暄，信息量低且不影响后续场景理解。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0264–0267
+SK05	scene	00:15:02.660	00:15:43.980	Did you feel justice was served ... I didn't call to argue with you, Megan.	你觉得正义得到伸张了吗……我不是打电话来和你辩论的 梅根	电视主持引入与身份介绍较长；从寻找共同点起进入精选段。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0268–0288
+SK06	scene	00:16:12.460	00:17:03.690	Sure, but let's get back to the issue here. ... We'll be right back.	当然 但我们回到真正的话题上来……我们马上回来	广播争执后半高度剧情化并含人身攻击；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0301–0319
+SK07	transition	00:17:07.040	00:17:24.540	Where are you going? ... Raymond Tusk has been subpoenaed.	你要去哪……雷蒙德·塔斯克被传唤了	走廊过渡与剧情信息更新，独立学习价值有限。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0320–0327
+SK08	scene	00:18:06.910	00:18:58.360	The therapy. Yes. ... What Megan said was offensive.	咨询 是的……梅根的话太过分了	律师沟通与会后过渡偏剧情执行；核心保密与信任表达已在相邻场景保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0342–0362
+SK09	scene	00:20:15.130	00:21:18.600	I'm sorry to ambush you. ... I know you have a packed schedule.	很抱歉突然这么来了……我知道你日程排得很满	克莱尔向特莉莎解释撤案并套取药物信息，剧情依赖强；只保留渐进改革句。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0386–0413
+SK10	scene	00:22:09.330	00:23:15.960	We can't waive the privileges, Garrett. ... Don't waive the privilege.	我们不能放弃保密权 加勒特……不要放弃保密权	夫妻争论中包含大量案件细节和重复拉扯；后段私人边界与保护承诺已保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0432–0463
+SK11	scene	00:24:20.880	00:24:54.180	You don't believe me? ... what with the kids still at home.	你信不过我……毕竟孩子们还在家里	以婚外情信息施压，涉及私人羞辱；技术问责主段已独立保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0477–0489
+SK12	scene	00:27:32.440	00:27:49.990	Don't let me keep you. ... Yes, I have it right here.	你快忙去吧……能 就在我手上	劝说场景的停顿与重新落座过渡，不单独选取。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0544–0547
+SK13	scene	00:29:38.950	00:30:45.070	I don't understand. ... I'm sorry.	我不明白……我失态了	法案争执升级到辱骂和创伤指责，强剧情且不适合首轮学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0587–0613
+SK14	scene	00:31:10.970	00:32:13.600	Raymond? ... They're toying with you, Raymond.	雷蒙德……他们在耍你 雷蒙德	顶层套房寒暄、对质和粗口驱离较碎；后半谈判主段已保留。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0617–0638
+SK15	scene	00:33:17.060	00:34:03.280	White House Counsel Bill Galich was called into questioning ... Articles of Impeachment.	白宫顾问比尔·嘉利克今早被传唤……考虑弹劾	新闻复述前情与案件背景，信息密集但口语迁移价值低。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0658–0678
+SK16	transition	00:34:18.200	00:34:34.440	As for Remy ... Mr. Tusk.	至于雷米……塔斯克先生	办公室任务分派与会面转场，未形成独立学习任务。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0685–0689
+SK17	scene	00:35:46.490	00:37:10.630	I don't even remember why I came over here. ... Lisa?	我都记不得我为什么要来这儿了……丽萨	被迫分手的完整场景情绪密度高；仅保留关键识别句，不作主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0703–0737
+SK18	literary-quote	00:37:33.290	00:38:03.660	There was a steaming mist in all the hollows ... from the light of the coach lamps.	四面的山洼雾气氤氲……车灯几乎什么也照不见	《双城记》朗读为氛围化过渡，非本集口语学习核心。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0738–0746
+SK19	scene	00:39:46.530	00:41:24.120	Tricia and I have been blessed ... and my country.	特莉莎和我有幸拥有一段婚姻……爱我的国家	总统公开声明篇幅长且与冯入境镜头交叉；只保留两个可独立迁移的领导表达。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0786–0820
+SK20	transition	00:41:28.870	00:41:34.120	Come in. Thank you, Meechum.	请进 谢谢 密查姆	入室礼貌转场，信息量不足。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0821–0822
+SK21	frank-aside-audit	00:00:00.000	00:44:37.350	Two direct-to-camera asides identified and selected: “Exile...” and “Cry, Havoc...”	全片识别到两段弗兰克镜头独白 均已入选	全片其余 Frank 台词均为场内对话、公开采访或对他人发言，没有低价值独白候选需要另行跳过。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0076–0077;0141–0142
+SK22	timeline-tail	00:44:37.350	00:45:32.850		英文剧情字幕结束后的中文弹劾历史说明	单语补充说明，不与英文剧情事件成对，不纳入 Archive 或 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	chinese-editorial-tail

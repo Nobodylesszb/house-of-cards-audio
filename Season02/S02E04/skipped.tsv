@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:03:23.070	00:03:46.070		翻译、时间轴、后期、校对与总监署名	字幕制作信息，不是剧情台词。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:04:39.890	00:04:42.640		纸牌屋 第二季 第四集	片头标题卡，不纳入 Archive 或 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:01:18.340	00:01:29.710	Interview setup and recent transition.	采访流程与近期身份变化预告。	仅为后续敏感问题的过渡，完整应对段已精选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0029–0033
+SK04	scene	00:06:52.970	00:07:25.430	Data-center access plan and cover story.	数据中心入侵计划与掩护身份。	涉及违法网络入侵操作；仅保留后段 Recognition，不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0128–0142
+SK05	scene	00:17:16.240	00:18:03.260	Marjory no longer recognizes Donald on the radio.	玛乔莉在通话中无法认出唐纳德。	情感强且高度剧情化；前后相关的可迁移关怀表达已精选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0345–0367
+SK06	news	00:23:43.310	00:24:09.040	Capitol lockdown news recap.	国会封锁的新闻回顾。	重复已知事件，学习密度低。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0476–0485
+SK07	scene	00:24:34.380	00:25:50.540	Childhood photographs and family background.	童年照片与家庭背景闲谈。	人物背景为主；后续完整故事已精选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0497–0535
+SK08	scene	00:32:10.710	00:36:17.970	Abortion and sexual-assault disclosure.	堕胎与性侵公开披露。	内容敏感；为保留剧情完整性已在 Archive 作 Recognition，不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0657–0735
+SK09	scene	00:38:16.080	00:39:25.110	Persuading an assault survivor to identify herself.	说服性侵受害者公开身份。	存在权力差与敏感证言；仅作 Recognition。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0775–0794
+SK10	scene	00:40:14.680	00:41:03.030	Military assault testimony and institutional protection.	军队性侵证言与制度保护问题。	内容敏感且剧情特定；仅作 Recognition。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0807–0823
+SK11	song	00:44:43.810	00:45:33.570	Pretty Polly (song excerpt)	《Pretty Polly》歌曲片段	歌词受版权保护且不属于台词精选，不收录。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0875–0891
+SK12	audio-tail	00:45:33.570	00:47:51.528		字幕结束后的无字幕尾段	不推断无字幕音频内容或台词边界。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail
