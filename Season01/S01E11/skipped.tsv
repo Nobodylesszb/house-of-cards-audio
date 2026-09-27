@@ -1,0 +1,8 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:02.720	00:00:31.220		字幕制作与翻译署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:22.230	00:01:25.190		第一季第十一集 / 纸牌屋	片头标题卡，不纳入台词学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	frank-aside-fragment	00:43:32.720	00:43:33.840	I walked back.	我走回来的	独立短句与后续独白相隔约16秒；边界不足以组成可复用 Frank aside，按 skipped 记录。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0558
+SK04	scene	00:24:02.030	00:24:31.610	Russo has made no public appearances since allegations that he was inebriated during a radio interview.	罗素自电台采访醉酒的指控后没有公开露面	新闻回顾与剧情信息密度高，且不是自然教学段；保留 Archive 识别记录，不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0335–E0346
+SK05	scene	00:25:32.010	00:26:56.780	Adam and Claire's explicit relationship argument.	亚当与克莱尔关于露骨关系的争执	露骨内容、强剧情依赖；不进入主动练习，避免与普通表达混淆。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0357–E0383
+SK06	scene	00:47:57.210	00:48:54.090	Developing news report with overlapping phone and broadcast cues.	交叠的突发新闻与电话对白	同一时间轴内有新闻播报、场内电话和多人插话，不能安全拼成单一连续角色段。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0626–E0653
+SK07	audio-tail	00:51:57.000	00:53:35.232			最后一条双语对白后至 MP3 结束无 ASS 对白，不推断文本、不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail

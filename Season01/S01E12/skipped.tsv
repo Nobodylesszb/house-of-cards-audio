@@ -1,0 +1,6 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:02:07.520	00:02:35.240		翻译、时间轴、后期、校对与总监署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:03:22.960	00:03:25.950		第一季第十二集 / 人人影视倾情奉献 / 纸牌屋	片头标题卡，不纳入台词学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:32:17.400	00:33:08.730	Zoe and Lucas argue about using sex and a Congressman for career advancement, including explicit sexual language.	佐伊与卢卡斯争论利用性关系和议员谋求事业发展，含露骨性语言。	连续场景完整，但性内容与粗口高度剧情依赖；保留为识别记录，不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0530–0550
+SK04	scene	00:37:21.450	00:38:46.940	Janine questions Echo about Kapeniak; the exchange includes strip-club context, drugs, threats, and profanity.	简宁向艾柯调查科佩尼科；场景含脱衣舞俱乐部、毒品、威胁与粗口。	完整调查场景但敏感内容与剧情依赖过重；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0613–0646
+SK05	metadata	00:50:13.610	00:50:28.610		Blind Trust（片尾字幕）	片尾字幕，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-title

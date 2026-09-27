@@ -1,0 +1,5 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	frank-candidate	00:01:16.620	00:01:19.420	There... No more pain.	好了… 痛苦结束了	对狗说话，不是 direct-to-camera；不为 Frank 身份强行收录。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	legacy:dog-address
+SK02	frank-aside	00:03:22.110	00:03:25.310	Give and take. Welcome to Washington.	有来有往 欢迎来到华盛顿	独白收尾转场，过短且迁移价值低；F02A/B/C 已保留完整语义段。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	legacy:new-year-transition
+SK03	frank-aside	00:15:18.280	00:17:05.020			供给 ASS 在此处出现字幕空档；只能从剧本恢复的 aside 不凭空补写，边界不可靠。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	legacy:cigarette
+SK04	frank-aside	00:53:19.940	00:55:57.408			供给 ASS 在 00:53:19.940 结束；片尾 scripted aside 无双语字幕与可靠边界，不臆造。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	legacy:closing

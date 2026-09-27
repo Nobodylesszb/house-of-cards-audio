@@ -1,0 +1,4 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:02:11.050	00:02:37.450		翻译及后期制作署名	字幕制作信息，不是剧情台词。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	subtitle-team-credits
+SK02	metadata	00:03:30.620	00:03:33.630		第一季 第六集 / 人人影视倾情奉献 / 纸牌屋	片头标题卡，不纳入台词包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	title-card
+SK03	audio-tail	00:47:04.320	00:49:50.976			ASS 在 00:47:04.320 后无字幕；不推断片尾文本或 Frank 独白边界。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	uncaptioned-tail

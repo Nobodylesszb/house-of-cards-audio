@@ -1,0 +1,18 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:52.320	00:02:23.490		翻译与后期制作署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:03:11.890	00:03:14.900		第一季 第十集 / 人人影视倾情奉献 / 纸牌屋	片头标题卡，不纳入台词包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:07:51.920	00:08:04.630	Is it the hot flashes? Get out. Get out.	是因为潮热[更年期症状]吗 滚出去 给我滚	夫妻争执中的潮热与驱逐，情节性强且不作为可迁移学习候选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0154–0156
+SK04	fragment	00:08:12.380	00:08:13.500	I'll see you back at the house.	回家再见	单句过场告别，信息量不足，未纳入 Archive。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0157
+SK05	fragment	00:10:10.860	00:10:27.390	Hello? Zoe Barnes? Yeah. Who is it? Claire Underwood. Zoe?	谁 佐伊·巴恩斯 是的 你是谁 克莱尔·安德伍德 佐伊	电话接通与身份确认碎片，缺少可独立学习的完整意图。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0199–0203
+SK06	fragment	00:13:05.640	00:13:07.230	Union Station, please.	到联合车站	出租车目的地单句，缺少可迁移语境。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0227
+SK07	fragment	00:13:21.440	00:13:27.270	This is Claire. I'm unavailable to answer the phone, but if you leave a message, I'll be sure and get back to you shortly. Thank...	我是克莱尔 现在不能接听你的电话 如果你留了言 我会尽快回复你 谢谢	语音留言片段，未形成完整交互。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0228–0231
+SK08	fragment	00:17:16.400	00:17:40.330	More contrast. We need to catch the edge of his face. Let's re-crop it. Bring it in a quarter of an inch on the left. Would you... Somebody named Claire?	增加对比度 我们要捕捉他的面部轮廓 重新剪裁吧 左边加四分之一英寸 能去… 有个克莱尔找你	修图指令与打断片段，偏制作现场元话语。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0296–0300
+SK09	fragment	00:19:08.900	00:19:19.770	Frank, here you go. Come on. Smell that. You sure you don't want to reconsider your stance on pork? Brain food, brother.	来了 弗兰克 闻闻这香味 真不想改主意吗 健脑食品啊 兄弟	餐饮玩笑与猪肉偏好，承载剧情但不作为首轮学习候选。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0332–0335
+SK10	fragment	00:23:02.310	00:23:24.820	How long are you in town for? I don't know. I haven't decided. You have no luggage. It smells the same. Feels the same.	这次要待多久 我不知道 还没想好 你没带行李 这里的味道还是一样 感觉也没变	离城与旧公寓气味的过场回忆，未形成完整任务型表达。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0401–0406
+SK11	fragment	00:30:46.210	00:30:47.490	Oh, fuck.	该死	孤立粗口，无可独立练习的语境。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0511
+SK12	fragment	00:34:50.990	00:35:09.750	Uh, why? I can't be in my apartment. Did something happen? No. I... I'm sorry. Zoe. Come on.	为什么 家里待不下去 发生了什么 没有 抱歉 佐伊 走吧	离开公寓的迟疑与过场道歉，语义不完整。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0553–0558
+SK13	scene	00:36:40.550	00:36:58.630	Oh, come on! Let's dance. It's not a big deal. Come on, let's do it. No. No, please, I can't. Not now. Come on.	来吧 和我跳支舞 没事的 来跳舞嘛 不要 拜托了 我真的不跳 来吧	跳舞邀约与拒绝，场内情节性较强，暂不进入首轮包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0579–0583
+SK14	fragment	00:40:00.050	00:40:01.350	Drink up.	喝光	单句催饮，缺少足够上下文。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0621
+SK15	fragment	00:47:00.790	00:47:06.140	Congressman? Congressman? Congressman?	议员先生 议员先生 议员先生	电台反复呼叫，重复性高，不单列。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0724–0725
+SK16	fragment	00:49:23.040	00:49:33.410	Peter. Peter! Peter?	彼得 彼得 彼得	片尾反复呼叫 Peter，非独白且不构成学习片段。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0771–0773
+SK17	audio-tail	00:49:33.410	00:52:01.032			ASS 在 00:49:33.410 后无字幕；不推断片尾文本或 Frank 独白边界。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail

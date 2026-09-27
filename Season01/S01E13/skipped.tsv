@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:02.640	00:00:33.750		翻译、时间轴、后期、校对与总监署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:22.130	00:01:25.180		第一季第十三集 / 人人影视倾情奉献 / 纸牌屋	片头标题卡，不纳入台词学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:05:37.000	00:06:58.690	Zoe and Lucas discuss their affair while she asks for police contacts; the scene contains explicit sexual language and profanity.	佐伊与卢卡斯谈论婚外情，她索要警方联络人；场景含露骨性语言和粗口。	完整场景但性内容与粗口高度剧情依赖；保留为识别记录，不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0073–E0096
+SK04	scene	00:10:23.770	00:10:59.050	Zoe and Doug pursue Rachel through escort-service details and prostitution context.	佐伊与道格根据应召服务线索追查瑞秋，含卖淫语境。	敏感性内容与剧情依赖过重；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0169–E0184
+SK05	scene	00:13:50.250	00:14:32.660	Claire recounts a graphic nightmare about a child being torn apart by vines.	克莱尔讲述孩子被藤蔓撕裂的血腥噩梦。	血腥且为剧情化梦境；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0232–E0243
+SK06	frank-aside-fragment	00:22:00.120	00:22:13.060	Peter, is that you? Stop hiding in my thoughts and come out. Have the courage in death that you never had in life.	彼得 是你吗 别躲在我的脑袋里了 出来吧 如今你死了 拿出生前没有的勇气吧	识别为 Frank 独白候选；完整但只对 Peter 的死亡对话，缺乏独立迁移价值，按 skipped 记录。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0378–E0381
+SK07	scene	00:26:57.200	00:29:18.350	Frank seeks a woman through a hotel and prostitution context; the exchange includes sexual negotiation.	弗兰克在酒店和卖淫语境中寻找一名女性，含性交易谈判。	敏感内容与剧情依赖过重；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0442–E0483
+SK08	scene	00:30:10.380	00:32:34.060	Frank and staff search a restaurant for Rachel while maintaining a cover story.	弗兰克与工作人员在餐厅寻找瑞秋并维持掩护说法。	调查桥段信息碎片化且边界依赖场景切换；不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0504–E0524
+SK09	scene	00:33:22.930	00:34:37.730	Zoe pressures Rachel about Russo, prostitution, and her father; the scene escalates to threats.	佐伊围绕罗素、卖淫和瑞秋父亲施压，场景升级为威胁。	敏感内容、威胁与剧情依赖过重；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	E0525–E0554
+SK10	audio-tail	00:46:00.680	00:49:10.296				Human-text-reviewed;Timeline-aligned;audio-not-confirmed	audio-tail

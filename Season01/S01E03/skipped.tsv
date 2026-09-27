@@ -1,0 +1,5 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	frank-related-remark	00:02:49.070	00:02:51.670	I just hate this small-ball crap.	我就是讨厌这种小球战术。	Complete but tied to the immediate Peachoid exchange; direct-address status is unconfirmed and the one-line reaction has limited learning value.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0080
+SK02	frank-related-remark	00:19:32.870	00:19:34.160	Well, that went well.	进展顺利啊。	Dry reaction with a reliable boundary, but too short and too scene-dependent to promote to the archive.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0430
+SK03	frank-related-remark	00:23:45.560	00:23:48.730	Distract me from giant peaches and dead teenagers.	让我别去想大桃子和死去的少女。	Complete character joke, but plot-specific and not a reusable speaking unit.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0506
+SK04	subtitle-gap	00:47:00.660	00:50:44.040			The local ASS ends before the MP3; there is no reliable subtitle text or scene boundary for this tail, so nothing is inferred or cut.	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	

@@ -1,0 +1,7 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:50.780	00:02:22.000		翻译与后期制作署名	字幕制作信息，不是剧情台词；不生成音频。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:03:10.280	00:03:13.430		第一季第九集 / 纸牌屋 / 人人影视倾情奉献	片头标题卡，不纳入台词学习包。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:12:09.530	00:13:31.030	Explicit sexual disclosures and career advice in the newsroom.	新闻编辑部的露骨性话题与职业建议	完整且有双语时间轴，但内容露骨、强剧情依赖；保留为识别记录，不进入 Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0263–0295
+SK04	scene	00:30:26.190	00:31:05.700	Restaurant harassment followed by immigration threats.	餐厅性骚扰与移民威胁	连续场景完整，但涉及性骚扰、身份威胁与胁迫；不进入主动练习。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0640–0657
+SK05	frank-related-remark	00:45:41.500	00:45:51.950	A great man once said that everything in life is about sex... Except sex. Sex is about power.	一位伟人曾说生活的一切都和性有关 除了性本身 性关乎权力	Frank 对 Zoe 的场内回应，不是对镜独白；且依赖露骨场景，不能误标为 Frank aside。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0956–0959
+SK06	metadata	00:49:12.320	00:49:42.320	committee chairmanship	委员会主席职位的解释性注释	字幕尾部百科注释，不是可听剧情对白；不进入 Archive/Listening。	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	1021
