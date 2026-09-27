@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	explicit-opening	00:01:07.070	00:01:10.410	Well, the president just saw me come.	总统看到我高潮了	露骨开场台词且缺少独立迁移价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0001
+SK02	credits	00:05:33.890	00:06:09.260	Translator and production credits	翻译与制作人员名单	字幕组署名覆盖层 非剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-CREDITS
+SK03	title-card	00:06:53.430	00:06:56.390	House of Cards Season 3 Episode 9	纸牌屋 第三季第九集	片头标题卡 非可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK04	repeated-slogan	00:03:05.860	00:03:23.210	A vote for Frank Underwood is a vote for America Works!	支持弗兰克·安德伍德就是支持《美国就业法案》	重复竞选口号 已由同场更完整演说代表	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0039–0043
+SK05	scripture-reading	00:13:24.320	00:13:38.310	And do not grieve the Holy Spirit of God... let all bitterness and wrath and anger be put away from you.	不要叫神的圣灵忧愁 一切苦毒恼恨忿怒都要除掉	长段经文引用 情境识别价值高于口语迁移	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0202–0205
+SK06	bar-altercation	00:15:34.000	00:16:17.320	Drunken bar altercation and repeated apologies	酒吧醉酒冲突与重复道歉	大量辱骂和动作性短句 信息密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0220–0236
+SK07	offensive-slur	00:33:59.540	00:34:03.290	Things got out of hand. A racial slur in a nice car.	事情有点失控 开着豪车的种族侮辱语	含明确种族侮辱语 不作为听力学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0548
+SK08	romantic-boundary	00:35:17.990	00:35:34.070	I'm sorry. You still mean a lot to me. I am there for you, as your friend.	对不起 你对我仍很重要 作为朋友我会扶持你	已由同场连续支持边界条目覆盖 不重复入选	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0567–0571
+SK09	tactical-countdown	00:42:12.550	00:42:50.260	Insertion countdown and jump commands	空降倒计时与跳伞口令	战术短令高度情境化 由后续失败撤离Context代表	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0643–0652
+SK10	transition	00:43:58.810	00:44:16.640	Hello? He's in the bedroom. Hey, brother.	有人吗 他在卧室 好啊弟弟	短过场且人物信息依赖画面	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0668–0669
+SK11	letter-overlay	00:48:54.070	00:49:00.830	Condolence letter to the fallen operator's parents	致阵亡行动人员父母的吊唁信	画面文字覆盖层 非可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-LETTER
+SK12	postscript	00:49:12.920	00:49:51.650	Chinese-only post-episode information cards	片尾中文说明卡	非中英剧情对白且晚于正片末句	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-POSTSCRIPT

@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:03:22.760	00:03:49.080		字幕翻译、时间轴、后期、顾问、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:04:42.300	00:04:45.260		纸牌屋 第三季 第一集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:03:00.000	00:03:03.890	He wants privacy. The man is honoring his father.	他想要点隐私 他可是在给父亲扫墓	媒体围观过渡 主要用于衬托开场独白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0019–0020
+SK04	scene	00:04:55.380	00:05:19.470	Here is the info... The president is ready to see you now.	这是你要的信息……总统可以见你了	日程确认与传唤过渡 信息密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0021–0028
+SK05	scene	00:05:55.080	00:06:18.420	You want more of this... history books.	还想听吗……足以载入史册	棒球版朗读用于陪护氛围 迁移价值低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0038–0044
+SK06	scene	00:10:51.390	00:11:10.780	Push back... Focus.	推……集中注意	重复物理康复口令 已由完整医疗场景覆盖	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0102–0107
+SK07	scene	00:13:38.580	00:13:48.750	He looks a lot better... Okay.	他看上去好多了……好	探望前电话收尾过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0158–0161
+SK08	scene	00:16:35.750	00:17:16.940	That is good... Keep breathing.	很好……保持呼吸	重复物理治疗鼓励语 学习增量有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0209–0225
+SK09	scene	00:32:41.750	00:34:33.320	Hello? ... God!	喂……天啊	电话与自慰动作转场 缺乏连续可迁移语言	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0493–0496
+SK10	scene	00:50:18.570	00:51:40.860	Get dressed... Get undressed.	穿好衣服……去脱吧	进入理疗场景的动作过渡 语言信息有限	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0756–0760

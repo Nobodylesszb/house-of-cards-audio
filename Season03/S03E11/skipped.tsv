@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:07:05.820	00:07:45.200		字幕翻译、时间轴、后期、顾问、鸣谢、特效、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:08:28.770	00:08:31.730		纸牌屋 第三季 第十一集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:16:03.470	00:16:30.610	Is Jackie in here?... Thanks.	杰姬在吗……谢谢	化妆间迎接与手术寒暄 为后续夫妻对话铺垫	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0239–0249
+SK04	scene	00:17:30.060	00:17:45.550	She is here... Quiet, quiet!	她来了……安静	入场欢呼和现场组织过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0266–0268
+SK05	scene	00:34:44.310	00:35:06.500	She is not picking up... You have not said a word.	她不接电话……你什么话都没说	电话未接与夫妻沉默的过渡短句	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0651–0654
+SK06	scene	00:36:18.030	00:37:14.200	Thank you all for coming in... I will see you when I get there.	感谢大家前来……到了之后见	献血活动安排与交错电话背景 主体对话另行收录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0667–0684
+SK07	scene	00:40:49.810	00:41:00.600	Are you okay?... Thank you.	你没事吧……谢谢	晕厥前身体反应过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0760–0762
+SK08	scene	00:42:44.770	00:43:09.440	What happened?... Then talk.	怎么了……那就说	晕厥处置与 Freddie 故事被打断的转场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0786–0796
+SK09	scene	00:43:52.860	00:44:11.250	You are a big guy... I will take it in my private study.	你个头挺大……我去私人书房接	Freddie 玩笑与急电转场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0814–0821
+SK10	scene	00:48:24.430	00:48:50.580	I am just pissed off... You should call the President.	我只是生气……你该给总统打电话	倒戈后短促追问和转告 已由竞选宣布覆盖	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0891–0897
+SK11	metadata	00:05:57.410	00:06:39.670		电视新闻字幕、竞选地点及人物说明	画面信息与字幕注释 非完整对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-onscreen
+SK12	metadata	00:50:30.970	00:50:55.970		美国大选、电视辩论与党内初选背景说明	片尾字幕组说明 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-note

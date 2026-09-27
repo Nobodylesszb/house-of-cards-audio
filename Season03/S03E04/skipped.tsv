@@ -1,0 +1,14 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:13.700	00:00:49.070		字幕翻译、时间轴、后期、顾问、鸣谢、特效、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:33.240	00:01:36.200		纸牌屋 第三季 第四集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	foreign-language-scene	00:08:47.000	00:09:28.630		联合国决议电话沟通	源字幕仅提供中文硬字幕 无英文文本 不构造英文条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	foreign-dialogue-overlay
+SK04	scene	00:10:57.850	00:11:21.840	Yes? Ms. Dunbar is here. Send her in... Please, have a seat.	什么事 邓巴女士来了 让她进来……请坐	会面迎接与落座过渡 已由随后核心对话覆盖	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0153–0161
+SK05	scene	00:14:27.280	00:14:38.980	Did you see this?... That is weird.	你看到了吗……真奇怪	短暂通知反应 缺少独立迁移价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0208–0212
+SK06	scene	00:15:36.730	00:15:45.960	Are you okay?... Phantom pain.	你没事吧……幻痛而已	身体疼痛插曲 仅作为道歉场景必要语境保留	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0229–0232
+SK07	scene	00:22:29.300	00:23:17.350	It is a moratorium... So we will talk later.	你这是禁言……我们迟点再聊	记者信息请求与传唤过渡 后续记者证冲突已完整收录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0361–0384
+SK08	scene	00:28:36.640	00:28:57.770	Hello? Yeah. Are you serious? Okay. Fuck. I need to speak to the president.	你好 嗯 真的吗 好吧 操 我有事找总统	零碎电话反应与转场 信息不足	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0518–0523
+SK09	scene	00:32:42.180	00:32:45.060	I have not excused you yet. See you in Iowa.	我还没允许你走 爱荷华初选见吧	冲突尾声短促反击 主体对抗已完整收录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0607–0608
+SK10	scene	00:33:51.570	00:35:30.220	I have to go... Nice meeting you, Lisa.	我得走了……很高兴认识你 丽萨	社群会后寒暄与离场 已由完整建立信任场景覆盖	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0621,0655–0657
+SK11	scene	00:35:39.860	00:36:03.590	Can we reschedule?... Look down the hallway.	能重新安排一下吗……回头看走廊	电话接通与身份确认 为后续 Doug 自荐铺垫	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0658–0667
+SK12	scene	00:39:26.710	00:40:13.000	Can you reach out to Bishop Eddis?... At least you know you have a place in heaven.	能帮我接艾迪斯主教吗……至少你知道自己能上天堂	联络与摩托车寒暄 主要服务教堂正题入场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0727–0736
+SK13	metadata	00:44:58.330	00:45:48.330		无人机反恐政策与美国司法立场补充说明	片尾字幕组背景说明 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-notes

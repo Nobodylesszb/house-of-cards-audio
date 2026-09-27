@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	credits	00:02:15.440	00:02:50.810	Translator and production credits	翻译与制作人员名单	字幕组署名覆盖层 非剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-CREDITS
+SK02	title-card	00:03:34.980	00:03:37.940	House of Cards Season 3 Episode 13	纸牌屋 第三季第十三集	片头标题卡 非可听对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK03	explicit-scene	00:11:57.810	00:12:55.790	Explicit sexual confrontation between Claire and Frank	克莱尔与弗兰克的露骨性冲突	露骨内容且高度依赖画面 不作听力条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0077–0088
+SK04	campaign-chant	00:15:30.230	00:16:34.330	Campaign chant and rally opening	竞选口号与演说开场	重复仪式口号 信息密度低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0103–0112
+SK05	coercion	00:23:38.710	00:24:25.080	Abduction threats and forced compliance	绑架威胁与强迫服从	暴力胁迫短句 不适合作核心训练	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0162–0169
+SK06	bodily-detail	00:27:06.760	00:27:32.420	Argument about urinating in the vehicle	关于在车内小便的争执	生理细节且迁移价值低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0208–0215
+SK07	execution-setup	00:35:44.480	00:36:38.680	Suffocation threat and repeated pleas	窒息威胁与反复求饶	高强度暴力内容 由身份求生段代表	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0294–0312
+SK08	binding	00:41:23.110	00:42:07.580	Binding, release directions, and water	捆绑、放行方向与饮水	动作性短句且剧情依赖画面	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0347–0352
+SK09	postscript	00:55:10.630	00:56:00.630	Chinese-only election information cards	片尾中文选举说明卡	非中英剧情对白且晚于正片末句	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-POSTSCRIPT
+SK10	frank-aside-audit	00:00:00.000	00:00:00.001	No direct-to-camera Frank aside occurs in this episode.	本集无弗兰克对镜独白	整集逐场审核后确认无可归档独白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	ASIDE-AUDIT

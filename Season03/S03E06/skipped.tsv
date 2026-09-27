@@ -1,0 +1,10 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:13.000	00:00:40.000		翻译、时间轴、后期、顾问、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:47.000	00:01:50.000		纸牌屋 第三季 第六集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:08:06.110	00:08:07.510	Большое спасибо.	非常感谢	俄语礼貌用语 片段过短	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0123
+SK04	scene	00:08:35.040	00:08:38.410	- Shall we? - Mr. President. - Thank you. - After you.	-请吧  -总统先生请 -谢谢  -你先请	礼让入座过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0129–0130
+SK05	scene	00:18:31.030	00:18:45.210	How are things going? May I speak with you for a moment? Что если не будет согласования. То и будет и пусть. Все.	进展怎么样了 我能跟你说句话吗 如果达不成一致  那就算了  就这样	询问进展与俄语离场过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0302–0304
+SK06	scene	00:24:14.280	00:24:23.420	Oh, this is great. Thank you. If I could have a receipt... - Oh. Excuse me. Sorry. - I appreciate it.	这太好了  谢谢 能给我一张收据吗 -不好意思  -谢谢	购药收据与碰撞过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0420–0422
+SK07	scene	00:36:47.140	00:36:47.800	Thanks.	谢谢	单句致谢过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0641
+SK08	scene	00:47:01.560	00:47:26.400	Your coffee, sir. Thank you, Ben. - Mr. President. - Later.	您的咖啡  先生 谢谢  本 -总统先生  -待会儿的	送咖啡和推迟谈话的事务性过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0773–0775
+SK09	scene	00:51:24.280	00:51:25.820	What are you looking at?	看什么看	结尾对旁观者的单句斥问	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0851

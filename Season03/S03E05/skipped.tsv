@@ -1,0 +1,10 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:13.780	00:00:40.100		翻译、时间轴、后期、顾问、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:33.320	00:01:36.280		纸牌屋 第三季 第五集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:11:04.530	00:11:09.820	Let me check first. Okay, it's clear.	我先看下外面 好了  安全	检查门外是否安全的动作过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0195–0196
+SK04	scene	00:11:41.630	00:11:43.980	Yeah, we're not gonna need any of these. We're gonna keep these right here.	这些我们不需要了 全都放在这里	整理新闻席物品的事务性过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0207–0208
+SK05	scene	00:16:01.720	00:16:03.790	Motherfucker.	混帐东西	单句脏话反应 迁移价值低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0278
+SK06	scene	00:16:44.290	00:16:57.160	Mr. President! Madam Ambassador. A word, please. Excuse me.	总统先生 大使女士  借一步说话 失陪	记者呼喊与离场过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0293–0295
+SK07	scene	00:19:08.010	00:19:19.290	Incoming call. Press the pickup bu-- - Mr. Secretary. - It's true. I resigned. Why are you still in the office? Punching the clock until the White House wants to go public.	有电话呼入  按接听键... -部长先生  -是真的  我辞职了 那你为什么还在办公室 点卯撞钟等白宫公布	加密电话接通与确认身份过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0336–0339
+SK08	scene	00:35:31.490	00:35:39.840	Did you get it? Thank you. Thank you so much. Thank you. Thank you for your support. Thank you, sir.	拍到了吗 谢谢  非常感谢 谢谢  谢谢你的支持 谢谢你  先生	重复致谢与拍照提示	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0635–0638
+SK09	scene	00:38:48.930	00:39:10.010	Cardiology's good money. Aren't you gonna say congrats? I've never seen you be this girly. It's a fucking diamond. I'm allowed to be a little girly. Congratulations. I'm happy for you both. Are you? Sorry. That wasn't fair.	心脏病医生挺阔啊 你不恭喜一下吗 从没见你这么少女心 这他妈是钻戒啊  少女一下怎么了 恭喜  我为你们俩高兴 真的吗 抱歉  我不该那么说	戒指展示后的短暂私人玩笑	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0689–0695

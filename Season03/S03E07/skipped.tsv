@@ -1,0 +1,14 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:13.650	00:00:32.920		字幕翻译、时间轴、后期、顾问、鸣谢、特效、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:33.190	00:01:36.150		纸牌屋 第三季 第七集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	scene	00:04:13.310	00:04:40.500	We have the photograph tomorrow... A month?	我们明天要为总统像拍照……一个月	总统像与僧人入场铺垫 后续婚姻和无常主题已完整收录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0025–0031
+SK04	scene	00:05:50.330	00:06:18.990	I am sorry I cannot stay... Tom.	抱歉我不能留下……汤姆	机场离别和招呼过渡 信息密度较低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0042–0050
+SK05	scene	00:21:42.740	00:22:12.240	You ready, sir?... Where are we at?	可以了吗先生……什么进度了	争执后的散烟与转场短句	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0330–0332
+SK06	scene	00:23:42.440	00:23:53.120	Can you get me the camera feed?... I will send you the link.	你能把监控视频拿给我吗……我会发链接	监控链接确认 为搜索剧情操作性过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0354–0357
+SK07	scene	00:25:48.030	00:25:55.110	Doug?... Talk to you then.	道格……到时再聊	简短电话任务确认	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0383–0386
+SK08	scene	00:30:12.420	00:30:25.430	Are you gonna come with me?... Fine.	你跟我去纪念馆吗……好吧	纪念活动日程确认 缺少独立表达价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0425–0429
+SK09	metadata	00:34:27.460	00:35:05.080		罗斯福名言及历史背景屏幕文字	画面引语与字幕注释 非对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-fdr-quotes
+SK10	scene	00:35:19.400	00:35:20.210	Hello.	你好	单句接电话转场	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0496
+SK11	scene	00:38:56.740	00:39:38.660	What are you thinking?... Beautiful.	你想怎么弄……真美	发色与服装改造蒙太奇 已以核心发色选择条目收录	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0517–0523
+SK12	metadata	00:49:38.240	00:49:44.370		吾爱 没什么是永久的 除了我们	仅中文画面文字 无英文源文本 不反向编造	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-onscreen-note
+SK13	metadata	00:50:33.840	00:50:58.840		罗斯福、克林顿夫妇关系的字幕组背景说明	片尾字幕组说明 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-note
