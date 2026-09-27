@@ -1,0 +1,9 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:03:38.180	00:03:41.130	House of Cards Season 5 Episode 2	纸牌屋 第五季 第二集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	fragment	00:09:57.470	00:09:59.090	Hello. Anyone here?	喂  有人吗	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0163–0163
+SK03	fragment	00:11:13.790	00:11:14.880	Drink it then.	那就把水喝了吧	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0179–0179
+SK04	fragment	00:11:22.720	00:11:23.890	I thought so.	我就知道会这样	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0180–0180
+SK05	fragment	00:33:04.060	00:33:04.980	Can you?	你呢	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0576–0576
+SK06	fragment	00:42:54.400	00:42:55.610	[Claire] Welcome home.	欢迎回家	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0721–0721
+SK07	fragment	00:46:50.050	00:46:51.640	He wanted you to have them.	他希望你拿着这些	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0784–0784
+SK08	fragment	00:49:05.020	00:49:07.310	Do you need help signing it?	你签字需要帮忙吗	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0804–0804

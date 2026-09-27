@@ -1,0 +1,11 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:21.240	00:03:10.390			片头字幕与无有效剧情对白区间	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	scene	00:07:06.880	00:07:09.760	Here you go. -Thank you. -You bet.	给你 -谢谢-小意思	递物与致谢短句，无独立训练价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0092–0093
+SK03	scene	00:10:00.850	00:10:16.650	[man] If you're hungry or thirsty-- [Jane] Angry. Tired. Frustrated. I should've been debriefed by now. Again, if you need water or a cup of coffee-- This is ridiculous. -[knock on door] -Excuse me.	如果你饿了或者渴了的话… 我只是愤怒、疲倦、苦恼 早就该有人向我说明情况 如果你想喝点水或者咖啡的话… 珍直太荒唐了 失陪一下	等候与茶水寒暄，核心对峙在后续完整场景展开	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0124–0129
+SK04	scene	00:11:46.580	00:11:49.700	Guess which kind of people I'm done suffering, Jane.	珍，知道我现在最烦哪种人吗？	孤立威胁收束句，语义已由相邻场景承载	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0153
+SK05	scene	00:26:40.340	00:26:41.510	Seth?	赛斯？	单句呼唤转场，无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0399
+SK06	scene	00:37:33.410	00:37:34.460	[Nathan] Doug.	道格？	单句呼唤转场，无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0568
+SK07	scene	00:42:56.440	00:42:57.530	[Annette] Hi.	嗨	单句问候转场，无独立学习价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0652
+SK08	scene	00:46:04.550	00:46:06.220	He's not one of us.	他不是这个家的人	孤立身份判断，核心冲突在相邻完整场景中	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0699
+SK09	scene	00:52:00.990	00:52:02.570	[clears throat]		非语言清嗓音，无口语训练价值	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0785
+SK10	metadata	00:53:38.920	00:53:44.920			字幕组二维码与招募画面，不属于剧情对白	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-fansub-card

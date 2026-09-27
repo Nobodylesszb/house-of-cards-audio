@@ -1,0 +1,7 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:03:30.970	00:03:33.920	House of Cards Season 5 Episode 4	纸牌屋 第五季 第四集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	fragment	00:01:49.190	00:01:52.940	-Madam President, can I ride with you? -Of course.	- 总统女士  我能跟您一起走吗  - 当然	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0016–0016
+SK03	fragment	00:14:56.350	00:14:57.560	What a shame.	太可惜了	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0217–0217
+SK04	fragment	00:25:28.150	00:25:30.070	I believe we have much to consider.	我认为我们有许多需要考虑的	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0404–0404
+SK05	fragment	00:39:27.070	00:39:29.450	I can't eat at these things, either.	这种场合我也吃不下东西	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0628–0628
+SK06	fragment	00:40:31.840	00:40:32.970	You're never ready.	说没就没了	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0648–0648

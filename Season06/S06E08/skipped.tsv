@@ -1,0 +1,15 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	mixed-speaker-cue	00:03:29.700	00:03:31.190	- Madam President! - Sarah, yes.	-总统女士  -莎拉  请讲	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0022
+SK02	mixed-speaker-cue	00:07:20.820	00:07:22.700	- Here to see an old friend. - The president said,	-只是来见老朋友的  -总统说	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0095
+SK03	mixed-speaker-cue	00:08:25.060	00:08:26.340	- Don't forget that... - Mark...	-别忘了...  -马克	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0122
+SK04	mixed-speaker-cue	00:09:17.190	00:09:19.000	- Hey, listen to me-- - That bitch	-听我说  -那贱人	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0137
+SK05	mixed-speaker-cue	00:11:12.930	00:11:14.870	- any other news outlet has the right to-- - Print?	-其他新闻机构都能...  -印发	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0171
+SK06	mixed-speaker-cue	00:12:55.400	00:12:59.970	- So, do you have any advice for President Hale? - Yes.	-所以你对黑尔总统有什么建议吗  -有	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0207
+SK07	mixed-speaker-cue	00:13:15.140	00:13:16.890	- Mr. Shepard-- - Listen,	-谢泼德先生  -听着	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0213
+SK08	mixed-speaker-cue	00:22:01.110	00:22:03.180	- Rafiq Nasser-- - Is dead.	-拉菲克·纳泽  -死了	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0347
+SK09	mixed-speaker-cue	00:30:35.190	00:30:38.020	- Forgive my surprise. - I'm not my brother.	-我很惊讶  -我不是我弟弟	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0464
+SK10	mixed-speaker-cue	00:33:42.060	00:33:44.700	- Herr God. - Herr Lucifer.	-上帝先生  -魔鬼先生	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0522
+SK11	mixed-speaker-cue	00:34:29.140	00:34:31.160	- She's no different from anyone else. - Yeah.	-她也只是凡人  -没错	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0534
+SK12	mixed-speaker-cue	00:44:59.620	00:45:01.630	- Ma'am, I didn't-- - Quiet.	-女士  我没有...  -闭嘴	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0665
+SK13	mixed-speaker-cue	00:47:30.640	00:47:32.740	- What do you think? - Frances Underwood.	-你觉得呢  -弗兰西丝·安德伍德	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0685
+SK14	mixed-speaker-cue	00:48:18.460	00:48:21.130	- I know the truth. - Doug, I'm happy.	-但我知道真相  -道格  我很幸福	同一字幕条含多角色台词，为避免跨角色合并不纳入 Canonical	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0700

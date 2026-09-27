@@ -1,0 +1,5 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	title-card	00:01:33.810	00:01:36.760	House of Cards Season 5 Episode 3	纸牌屋 第五季 第三集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	OVERLAY-TITLE
+SK02	fragment	00:34:20.760	00:34:21.640	Please.	请	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0570–0570
+SK03	fragment	00:37:27.280	00:37:28.780	They got us, you know?	他们发现我们了  你懂吗	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0606–0606
+SK04	fragment	00:38:07.110	00:38:08.620	You can start the film.	可以放电影了	短促过渡或信息不足片段	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0609–0609
