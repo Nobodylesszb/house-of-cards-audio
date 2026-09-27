@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:08.610	00:00:22.660		字幕组翻译、时间轴、后期、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:32.530	00:01:35.530		纸牌屋 第四季 第二集	片头标题卡 不纳入学习条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	onscreen	00:05:57.990	00:06:01.500		今晚戴我母亲的耳环 欢迎回来 弗兰西斯	手机短信画面 已由相邻剧情交代	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-message
+SK04	transition	00:05:14.530	00:05:28.950	Ma'am? We have lunch prepared for you. This is impressive. Well, soak it up while you can. We won't be here long. I'll be right back.	女士  我们为您备好了午餐 真是气派 趁现在好好瞻仰一下吧  我们一会儿就走 我就回来	午餐与房间观感过渡 信息密度较低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0076–0079
+SK05	transition	00:07:48.340	00:08:07.330	Come in. I was able to get Mrs. Hale on the phone. Oh, great. Uh, could you excuse me for a moment? - Mother? - You doing okay, Mrs. Hale? Yes, thank you. Who was that?	请进 我接通了黑尔太太的电话 太好了  能让我们单独待会儿吗 -母亲  -您没事吧  黑尔太太 是的  谢谢 那是谁	接通母女电话的短过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0116–0121
+SK06	transition	00:12:03.330	00:12:12.900	You ready to prep, sir? - I need to make some changes. - I'll call the speech writers. No, I wanna do these myself. And track down Calista. We have to make room for one more guest. Yes, sir.	可以开始准备了吗  先生 -我要做些改动  -我去叫讲稿撰写人 不用  我自己来  去把克丽丝塔找来 我们还可以再加一名宾客 是  先生	修改演讲并增加嘉宾的执行性安排 已由后续演讲体现	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0200–0204
+SK07	transition	00:16:03.310	00:16:28.640	- Celia. - Thank you so much for arranging this. It's a big honor to be sitting next to you. Mr. Speaker, the President of the United States.	-西莉娅  -谢谢你的安排 能坐在你旁边太荣幸了 议长先生  有请美国总统	国情咨文座位致谢与总统入场介绍	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0250–0252
+SK08	metadata	00:23:23.200	00:23:33.410		2016国情咨文	画面注记且与对白重叠	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-sotu-slate
+SK09	transition	00:28:14.070	00:28:22.430	I'll take one. Take mine.	我也来一杯 喝我的吧	夫妻取酒的短过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0437–0438
+SK10	overlay	00:28:00.000	00:28:40.120	www.ZiMuZu.tv	最新美剧下载	网站水印覆盖层 不是剧情内容	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-watermark
+SK11	transition	00:32:39.680	00:32:54.830	- He on? - Yes, sir. I'm ready. I'll connect you now, sir. President Petrov, you are now on with the president.	-接通了吗  -是  先生 我准备好了 我这就给您接  先生 佩特罗夫总统  您现在在跟总统通话了	连接 Petrov 电话的技术性过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0519–0522
+SK12	metadata	00:39:18.350	00:39:21.350		人人美剧APP推广与二维码	片尾平台推广 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-ad

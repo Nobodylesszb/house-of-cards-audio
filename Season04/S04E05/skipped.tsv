@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:01:24.480	00:01:46.160		字幕组翻译、时间轴、后期、校对与总监署名	字幕制作信息 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:02:48.400	00:02:51.400		纸牌屋 第四季 第五集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	onscreen	00:03:03.730	00:03:52.820		Goodwin 家、Barnes、Doug、Rachel 等调查标注	画面证据标注 已由对白与档案场景交代	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-investigation-notes
+SK04	transition	00:04:03.650	00:04:23.500	Email this to me. Mrs. Underwood? It's two o'clock in the morning. Would you like to go home? Oh, yes, I'll be out in a moment. Yes, ma'am.	把这个电邮给我 安德伍德夫人 现在凌晨两点了  您要回家吗 嗯  我待会儿就出去 是  夫人	Claire 深夜离开办公室的短过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0014–0018
+SK05	transition	00:05:33.530	00:05:46.690	May I? Please. I know it's late, but they said you were up, so... No, I know. I just hadn't eaten all day. I'm sure you haven't. - Would you like some salad? - Sure. Thank you.	我可以进来吗 请吧 我知道很晚了  但他们说你没睡 我知道  我就是一天都没吃东西了 你也是吧 -来点沙拉吗  -好啊  谢谢	深夜沙拉寒暄 信息密度较低	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0030–0035
+SK06	onscreen	00:07:52.100	00:08:14.540		Jackie 与 Remy 的短信往来	屏幕文字 已由后续会面关系交代	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-texts
+SK07	onscreen	00:08:52.470	00:11:37.580		Claire 给 Blythe 的谈判提示	屏幕提示与 Petrov 通话重叠 不另做音频条目	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-coaching-notes
+SK08	metadata	00:28:00.000	00:28:40.120	www.ZiMuZu.tv	最新美剧下载	网站水印覆盖层	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-watermark
+SK09	transition	00:34:49.890	00:35:14.790	It's open. I came as soon as I got your text. We've been slammed since the press conference. How's it lookin'? Major play on the Dunbar story. It was a good idea to have the First Lady talk. You want a soda? A glass of water or anything? Water's fine.	门没关 我一收到你的短信就尽快赶过来了 发布会后我们忙得不可开交 情况怎么样 邓巴的事大受关注 让第一夫人去说是个好主意 你要喝苏打水吗 来杯水什么的吗 水就好	Seth 到访与饮水寒暄	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0510–0518
+SK10	transition	00:36:31.330	00:36:56.100	Fuck! Fucking... Here. You're fucked up, man.	该死 该死的 给 你有病  伙计	暴力控制后的短促反应	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0539–0542
+SK11	onscreen	00:37:45.700	00:38:04.560		刺客说法被驳斥及 Dunbar 未回应	电视字幕画面 与相邻政治情节重叠	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-news
+SK12	metadata	00:45:09.440	00:45:12.440		人人美剧APP推广与二维码	片尾平台推广 不是剧情台词	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-ad

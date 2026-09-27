@@ -1,0 +1,13 @@
+id	type	start	end	english	chinese	reason	source_status	source_cue_id
+SK01	metadata	00:00:08.780	00:00:35.140		字幕组翻译、时间轴、后期、校对与总监署名	字幕制作信息	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-credits
+SK02	metadata	00:01:32.700	00:01:35.700		纸牌屋 第四季 第十集	片头标题卡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-title-card
+SK03	transition	00:04:22.150	00:04:27.270	Mother. Hello, Claire.	母亲 你好啊  克莱尔	母女见面的短招呼	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0056–0057
+SK04	onscreen	00:17:12.050	00:17:18.250		贝茨市葡萄园	调查地点画面标注	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-location
+SK05	transition	00:11:33.370	00:11:48.840	Oh, you see, laughter is good for the pain. Even better than this morphine. - Let me help you. - No, no, I can do it. You just go. Go!	你瞧  笑一笑能缓解疼痛 比吗啡还有效 -我来帮你吧  -不用  我自己能行 你走吧 走	病痛中催促离开的短过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0180–0184
+SK06	metadata	00:28:00.000	00:28:40.120	www.ZiMuZu.tv	最新美剧下载	网站水印覆盖层	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-watermark
+SK07	onscreen	00:34:47.860	00:35:01.290		Petrov 报道、Anthony Moretti 基金与捐款界面	屏幕信息 已由相邻情节交代	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	onscreen-donation
+SK08	transition	00:35:33.060	00:35:35.640	您的5000美元捐款已接收	谢谢	捐款确认屏幕文字	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0506
+SK09	transition	00:41:41.790	00:41:45.300	Want me to call someone? Make arrangements?	想让我给谁打电话吗  做些安排	丧礼安排的单句过渡	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	0586
+SK10	metadata	00:47:09.870	00:47:15.650		民主党全国代表大会	大会画面标题	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-convention
+SK11	metadata	00:53:57.350	00:53:59.370		安德伍德夫妇获取民主党提名	新闻画面标题	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-ticket-news
+SK12	metadata	00:54:29.820	00:54:32.820		人人美剧APP推广与二维码	片尾平台推广	Human-text-reviewed;Timeline-aligned;audio-not-confirmed	metadata-end-ad
