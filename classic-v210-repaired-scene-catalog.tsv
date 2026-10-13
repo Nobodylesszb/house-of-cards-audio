@@ -1,0 +1,11 @@
+episode	source_id	start	end	evidence
+S03E02	X02	00:06:33.780	00:07:59.600	比原 X02 00:06:48.980–00:07:42.030 向前后补齐话轮；loaded question → misstatement → interruption → pushback，结尾语义闭合。
+S03E04	X03	00:21:11.620	00:22:17.480	完整覆盖 Frank 对 Jacobs 的 care claim → leak risk → legacy loss → plea；比原 extended 边界两端各补齐语义。
+S04E01	X03	00:21:32.050	00:22:08.740	单一连续电话场景：firearm reference → bullet metaphor → commands → acknowledgment；原 extended 区间已是完整闭合范围。
+S04E05	X04	00:28:59.020	00:30:19.780	完整覆盖 murder/corruption → troubled mind → parental grief → restraint request；补足发布会开场承接与最后请求。
+S04E09	X04	00:19:11.400	00:20:26.620	从 big-if 假设到 anything/未受控故事及 planted precedent，补齐原 X04 前置提问与后置收束。
+S05E03	X06	00:43:40.940	00:44:43.560	从 first-kiss 回忆开始，完整推进到 fear of failure 并在对白停顿处收束；修复原候选开头过晚的问题。
+S05E07	X05	00:33:11.870	00:34:08.230	完整覆盖 plot alleged → office choice → military tension → evacuation refusal → promise to remember withheld information。
+S05E11	X04	00:24:32.840	00:25:27.230	完整闭合 resignation → retirement → dirty House → predecessors → history → madmen leading the blind；修复原 deferred 状态。
+S06E01	X04	00:18:27.350	00:19:15.820	fireworks curated → global shells → blue chemistry → promise buried → grief reset → deathbed haunting，连续场景无跨角色拼接。
+S06E06	X03	00:28:28.240	00:30:11.930	从 troubled young woman 的叙述完整到 Jane/Claire 收束对白；采用 canonical 028 的连续完整区间 00:28:28.240–00:30:11.930。
