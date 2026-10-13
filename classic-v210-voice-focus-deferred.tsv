@@ -1,11 +1,9 @@
 order	episode	source_kind	source_id	start	end	title_slug	reason	confidence	caveat	curation_source	text_verdict
-2	S01E01	canonical	002	00:02:06.480	00:02:34.440	new-year-power-positioning-part-1	片头新年独白的完整前半段：用反问、让步和风向隐喻说明如何判断一个新领导者，Frank 的声音和思想结构都很典型。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	REVIEW
 6	S01E02	extended	X01	00:00:06.340	00:00:49.260	freddys-barbecue-and-capitol	Frank开场独白；具体服务细节自然转入制度讽刺，保持单一连续场景。	high	audio-unconfirmed; preserve original mix	original-49	DROP
 8	S01E03	extended	X03	00:37:30.480	00:38:14.930	offer-support-on-your-own-terms	Claire解释自己为何拒绝高薪机会，并把支持和自主权交还给对方；完整、自然、可迁移的关系对话。	high	audio-unconfirmed; preserve original mix	dialogue-new	DROP
 15	S01E08	extended	X05	00:23:55.990	00:24:55.080	library-favors-and-impermanence	Frank与Tim连续反思；场所、政治恩惠与何者留存自然递进。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
 16	S01E09	extended	X05	00:32:47.020	00:33:42.850	supporting-a-family-decision	Frank与Linda的完整支持性对话；承认家庭压力，提供实际帮助，同时保留对方的决定权。	high	audio-unconfirmed; preserve original mix	dialogue-new	REVIEW
 24	S02E06	extended	X04	00:28:35.440	00:29:28.550	off-record-interview-ground-rules	Frank与Hammerschmidt完整采访；规则、敌意与发表策略连续升级。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
-31	S02E13	extended	X01	00:01:29.840	00:02:15.980	frank-television-interview-and-reelection	Frank接受电视采访；从程序辩护推进到关系与继任追问，适合练习在压力下澄清立场。	high	audio-unconfirmed; preserve original mix	dialogue-new	REVIEW
 36	S03E03	extended	X01	00:09:24.480	00:10:08.160	peace-vision-vs-reality	Frank与Petrov连续会谈；和平愿景与利益现实正面碰撞。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
 39	S03E06	extended	X04	00:29:54.150	00:30:46.250	corrigans-love-story	Corrigan用具体细节讲述长期伴侣关系的起点；叙事完整、情绪自然，适合学习个人故事的铺陈。	high	audio-unconfirmed; preserve original mix	dialogue-new	REVIEW
 41	S03E08	extended	X01	00:03:11.180	00:03:51.740	thomas-and-the-impossible-harbor	Thomas的完整书籍旁白；用港口、游泳和不可能任务的寓言建立主题，语言有画面感，适合背诵。	high	audio-unconfirmed; preserve original mix	dialogue-new	DROP
