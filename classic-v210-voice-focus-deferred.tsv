@@ -22,3 +22,6 @@ order	episode	source_kind	source_id	start	end	title_slug	reason	confidence	cavea
 81	S06E01	extended	X05	00:21:45.510	00:22:29.340	military-address-and-democratic-duty	Claire公开演说；私人丧失转为女性领导与民主承诺，完整连贯。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
 82	S06E01	extended	X06	00:32:37.950	00:33:31.710	dougs-origin-of-loyalty	Doug向心理医生回述成瘾与获救经历；解释对Frank忠诚的完整叙事。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
 87	S06E06	extended	X04	00:34:53.420	00:35:50.140	truth-guilt-and-justice	Doug与Tom围绕真相和正义进行核心争辩；连续转折清楚。	high	audio-unconfirmed; preserve original mix	original-49	REVIEW
+90	S02E05	extended	X02	00:10:33.38	00:11:08.79	frank-and-claire-test-a-leak	泄密策略过度依赖政治剧情，当前版本更适合保留文本作识别，不进入反复听包。	high	text-only; no audio review; policy-specific strategy scene; transfer the reasoning structure, not the political tactic	dialogue-more	DEFER
+91	S05E06	canonical	038	00:49:52.650	00:50:46.440	step-down-deal	完整但美国选举与最高法院程序术语占比过高，可迁移表达密度较低。	high	美国政治制度词汇较多；可作为正式谈判长对白；audio-unconfirmed	dialogue-more	DEFER
+92	S05E08	canonical	034	00:38:06.880	00:39:23.810	willing-to-do-anything	三角色谈判有角色归属与轮次风险，需先逐条听审后再决定。	high	政治操控与暗示性威胁；Recognition优先；audio-unconfirmed	dialogue-more	DEFER
