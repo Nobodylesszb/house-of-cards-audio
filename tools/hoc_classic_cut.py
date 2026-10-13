@@ -79,6 +79,10 @@ def main() -> int:
     parser.add_argument("--source-root", required=True, type=Path)
     parser.add_argument("--selection", required=True, type=Path)
     parser.add_argument("--out", type=Path, help="output root; defaults to repository root")
+    parser.add_argument("--edition-name", default="经典独白与对话-纯享版-按季顺序", help="single output folder name")
+    parser.add_argument("--manifest-name", default="classic-pure-manifest.tsv", help="manifest filename in output root")
+    parser.add_argument("--min-count", type=int, default=40)
+    parser.add_argument("--max-count", type=int, default=60)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
     repo = args.repo.resolve()
@@ -86,8 +90,14 @@ def main() -> int:
     source_root = args.source_root.resolve()
     selection_path = args.selection.resolve()
     rows = base.read_tsv(selection_path, set(FIELDS))
-    pure_dir = out_root / "经典独白与对话-纯享版-按季顺序"
-    manifest_path = out_root / "classic-pure-manifest.tsv"
+    if args.edition_name in {"", ".", ".."} or "/" in args.edition_name or "\\" in args.edition_name:
+        raise base.CutterError("edition-name must be a single directory name")
+    if args.manifest_name in {"", ".", ".."} or "/" in args.manifest_name or "\\" in args.manifest_name or not args.manifest_name.endswith(".tsv"):
+        raise base.CutterError("manifest-name must be a TSV filename in the output root")
+    if args.min_count < 1 or args.max_count < args.min_count:
+        raise base.CutterError("invalid min-count/max-count")
+    pure_dir = out_root / args.edition_name
+    manifest_path = out_root / args.manifest_name
     seen_orders: set[int] = set()
     seen_names: set[str] = set()
     validated = []
@@ -112,7 +122,7 @@ def main() -> int:
             raise base.CutterError(f"missing source table: {table}")
         source_rows = base.read_tsv(table, base.LISTENING_COLUMNS if kind == "listening" else base.EXTENDED_COLUMNS)
         id_field = "canonical_id" if kind == "listening" else "id"
-        matches = [r for r in source_rows if r[id_field] == row["source_id"]]
+        matches = [r for r in source_rows if r[id_field] == row["source_id"] and r["start"] == row["start"] and r["end"] == row["end"]]
         if len(matches) != 1:
             raise base.CutterError(f"{episode}: expected one {kind} row for {row['source_id']}, got {len(matches)}")
         original = matches[0]
@@ -152,8 +162,8 @@ def main() -> int:
         raise base.CutterError("selection orders must be contiguous from 1")
     if [item[2].episode for item in validated] != sorted(item[2].episode for item in validated):
         raise base.CutterError("selection rows must be in season/episode order")
-    if not 40 <= len(validated) <= 60:
-        raise base.CutterError(f"classic-pure edition expects 40–60 selections, got {len(validated)}")
+    if not args.min_count <= len(validated) <= args.max_count:
+        raise base.CutterError(f"edition expects {args.min_count}–{args.max_count} selections, got {len(validated)}")
     output = []
     for _, row, cut in validated:
         exists, duration, digest = base.check_existing(cut.output_path, cut, None)
