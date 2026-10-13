@@ -4,64 +4,71 @@ order	episode	source_kind	source_id	start	end	title_slug	reason	confidence	cavea
 3	S01E01	extended	X04	00:39:05.770	00:39:52.850	rewrite-blythe-bill	Frank连续谈判；从直接批评转到改革重写与可执行下一步。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
 4	S01E01	canonical	058	00:51:53.100	00:52:12.940	guilty-pleasure-rack-of-ribs	完整的个人记忆与食物独白，从早餐习惯回到南卡罗来纳的贫困记忆；有生活细节，也有 Frank 的角色声音。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
 5	S01E03	extended	X01	00:09:32.600	00:10:00.950	gaffney-changed-perspective	Frank镜头独白；地点记忆、感官观察与视角变化完整展开。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-6	S01E04	extended	X05	00:28:24.280	00:28:58.040	claire-formal-testimony	Claire的完整听证陈述；有论点、功能细节、量化信息和正式收束，适合练习结构化长表达。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-7	S01E05	extended	X06	00:46:49.180	00:47:32.810	peter-opportunity-and-accountability	Frank与Peter连续对话；机会、支持和个人责任形成闭环。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-8	S01E06	canonical	005	00:01:46.780	00:02:05.800	worst-position-square-one	片头完整分析困局：比较不同失败路径，再落到退回原点的风险，适合学习如何有条理地说明压力和选择。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-9	S01E06	extended	X03	00:27:10.060	00:28:09.050	campaign-launch-and-sobriety	Frank与Peter完整启动对话；竞选安排与戒酒底线清楚。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-10	S01E07	canonical	001	00:04:13.940	00:04:38.640	wake-up-call-from-god	以事故和复苏经历讲述“来自上帝的警钟”，叙事闭合、画面感强，是一段完整人物独白。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-11	S01E07	extended	X06	00:48:14.450	00:48:45.580	secrets-and-identity	Frank收尾独白；秘密、伪装与身份原则收束明确。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-12	S01E10	extended	X02	00:15:15.630	00:15:48.400	revolt-and-resolve	Frank镜头独白；盘点倒戈后做出继续推进的决断。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-13	S01E12	canonical	077	00:48:30.600	00:48:47.430	power-money-purchased-souls	区分财富与权力，再解释“被购买的灵魂”为什么危险；虽短但论点完整，属于 Frank 的核心权力隐喻。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-14	S02E01	extended	X01	00:05:56.490	00:06:52.950	leadership-pitch-to-jackie	Frank招募Jackie；职业目标、竞争与可执行支持完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-15	S02E01	extended	X05	00:46:26.000	00:46:58.810	trap-and-survival-rule	Frank收尾独白；隐喻连续展开并落到生存规则。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-16	S02E03	extended	X01	00:00:07.380	00:00:42.520	sharpening-a-policy-line	Frank与写作者共同打磨开场文字；从铺垫、升级到收束，展示如何把普通句子改得更有力度。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-17	S02E03	extended	X05	00:35:11.700	00:36:10.990	vote-math-and-coalition	Frank连续策略对话；约束、票数、激励和程序形成闭环。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-18	S02E04	extended	X03	00:19:22.760	00:20:14.550	grief-coping-and-acceptance	Frank与Donald谈失去亲人的应对方式；从个人痛苦自然转向共情和接受，情绪完整且不跨场景。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-19	S02E07	canonical	029	00:20:04.060	00:20:26.200	trap-keep-to-myself	Frank 发现资金链真相后的完整内心推演：比较告密与隐瞒的代价，适合精听决策和风险表达。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-20	S02E08	extended	X04	00:27:32.750	00:28:31.640	power-and-status-confrontation	Frank与Linda连续冲突；越权、资历与职权边界正面交锋。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-21	S02E09	extended	X05	00:36:16.280	00:36:50.740	freddys-accountability-and-dignity	Freddy回望犯罪、父职亏欠与自立；是一段具体、克制的人物自省，适合精听叙事和价值表达。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-22	S02E09	extended	X06	00:37:38.970	00:37:59.230	hypocrisy-and-no-regret	Frank镜头独白；虚伪判断与权力规则短促收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-23	S02E11	canonical	030	00:13:28.120	00:13:44.790	achilles-heel-exposed	把连续撒谎后的暴露感比作 Achilles 的脚踵，隐喻完整、句子连续，适合背诵但保留人物化语气。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-24	S02E12	extended	X05	00:43:25.130	00:44:15.570	impeachment-as-politics	Frank、Claire、Jackie连续讨论；改革成果、身份绑定与政治现实完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-25	S02E13	extended	X03	00:23:22.830	00:24:18.370	typewriter-and-three-truths	Frank信件旁白；家族遗产、帝国与三个真相完整展开。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-26	S03E01	canonical	001	00:01:56.300	00:02:51.880	line-at-my-funeral	对父亲墓碑的完整倾诉：从总统车队、家庭贫困和孤独推进到自己的葬礼，叙事完整且具有强烈角色声音。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-27	S03E01	extended	X03	00:29:34.900	00:30:21.330	reform-and-unpopular-action	Frank用数据和民调说明改革必要性；论证完整且自然连续。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-28	S03E02	extended	X05	00:41:35.880	00:42:25.140	welfare-and-work	Frank全国演说；福利诊断、自立与工作承诺完整闭合。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-29	S03E04	extended	X04	00:31:23.300	00:32:19.750	campaign-motive-and-moral-legitimacy	Frank与Dunbar连续对话；竞选动机升级为权力与道德争论。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-30	S03E06	extended	X01	00:02:24.870	00:03:15.930	real-story-behind-the-polish	Frank向Thomas讲真实经历；去包装化叙事完整，适合跟读。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-31	S03E07	extended	X02	00:12:31.170	00:13:09.560	family-framing-and-truth	Yates采访Frank；家庭包装被连续追问拆解，语义完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-32	S03E08	extended	X05	00:39:55.110	00:40:47.250	failure-to-new-mandate	Frank与Thomas连续对话；挫败被重构为参选理由和新叙事起点。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-33	S03E08	canonical	045	00:41:05.980	00:41:17.500	imagination-courage	Frank承认自己编造游泳故事，并由此落到“想象也是勇气”的完整判断；优美、易背，适合长期复听。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-34	S03E10	extended	X01	00:02:35.390	00:03:24.060	local-sacrifice-global-duty	Frank市民会谈；承认局部代价后提升到全球责任。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-35	S04E02	extended	X05	00:27:10.420	00:28:00.980	marriage-power-conflict	Frank与Claire连续争执；交易质问从胜算转入明确威胁。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-36	S04E02	canonical	033	00:29:55.370	00:31:59.450	bring-out-my-ax	两分钟以上的完整童年故事：Walter爬树、Frank用斧头制造“动机”，最后回扣 Claire；长叙事结构清楚，适合精听和背诵。	high	audio-unconfirmed; novel Frank direct-to-camera aside; plot/violence and threat content; preserve original mix	frank-new	KEEP
-37	S04E03	extended	X03	00:20:08.350	00:20:58.240	fear-as-political-theater	Frank内阁简报；用有限行动制造政变恐惧，论点完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-38	S04E04	extended	X03	00:18:52.110	00:19:36.580	shared-presidency-and-listening	Frank公开演讲；把抗议者重定义为领导者应倾听的对象。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-39	S04E04	extended	X05	00:36:18.950	00:37:10.680	claire-and-the-third-option	Claire先解除模仿前任的束缚，再用隐喻推动团队创造第三方案；完整呈现重新定义问题和提出选择。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-40	S04E07	extended	X03	00:16:54.710	00:17:49.740	data-votes-and-surveillance	Frank镜头独白；数据、选票和监控形成完整武器隐喻。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-41	S04E07	extended	X04	00:22:55.290	00:23:47.640	first-conway-confrontation	Frank与Conway首次正面对抗；法律、自治与腐败指控逐层升级。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-42	S04E07	canonical	024	00:24:14.980	00:24:40.780	pull-an-oar	借 Sulla 和 Marius 的历史故事落到“先学会划桨，再掌舵”，完整、节奏稳、适合背诵权力隐喻。	high	audio-unconfirmed; novel Frank direct-to-camera aside; historical/violent reference; preserve original mix	frank-new	KEEP
-43	S04E07	canonical	031	00:31:17.650	00:31:30.390	stink-of-lie	把良知和谎言的气味作连续类比，句子闭合、节奏鲜明，适合精听讽刺性表达。	high	audio-unconfirmed; novel Frank direct-to-camera aside; character-specific language; preserve original mix	frank-new	KEEP
-44	S04E08	canonical	003	00:03:46.930	00:04:11.230	leaderships-choice	完整评估副总统候选人：先列事实优势，再转入缺点和讽刺判断，适合学习结构化评价。	high	audio-unconfirmed; novel Frank direct-to-camera aside; political and character-specific language; preserve original mix	frank-new	KEEP
-45	S04E08	extended	X05	00:28:27.840	00:29:23.580	writing-the-ending-and-telling-the-truth	Tom、Claire与Frank围绕小说结局和婚姻真相展开连续对话；问答自然，适合练习含蓄追问与回应。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-46	S04E10	extended	X04	00:37:00.850	00:37:58.760	better-story-than-truth	Frank与Durant对话；媒体时钟、遗产和“更好的故事”完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-47	S04E10	extended	X05	00:38:36.380	00:39:32.530	murder-confession-and-self-defense	Frank向Durant连续认罪并解释动机；经典但含暴力情节，适合纯享识别。	medium	audio-unconfirmed; plot/violence content	original-49	KEEP
-48	S04E12	extended	X03	00:12:47.510	00:13:27.380	flaw-as-strategic-leverage	Frank镜头独白；将对手弱点转成可预测的战略杠杆。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-49	S04E13	extended	X06	00:44:40.470	00:45:36.980	leadership-against-fear	Frank全国讲话；从领导问题推进到对抗恐惧的生存责任。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-50	S05E02	extended	X02	00:08:03.160	00:08:55.000	policy-language-and-election-goal	Frank镜头独白；公开法律措辞与真实选举目标形成反差。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-51	S05E02	canonical	029	00:40:08.510	00:41:35.700	failure-imagination	以生火步骤展开关于“利用眼前资源”的完整类比，最后落到 imagination；连续、优美且适合复述。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-52	S05E04	extended	X06	00:41:12.380	00:41:56.590	parental-power-and-written-dreams	Frank与Claire镜头独白；家长式权力逻辑完整收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-53	S05E05	extended	X01	00:01:18.150	00:02:01.430	franks-three-branches-in-crisis	Frank用完整独白解释僵局如何同时冻结三权；论点层层推进，适合练习抽象问题的结构化说明。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
-54	S05E05	extended	X02	00:02:02.330	00:02:42.500	coin-philosophy-and-institutional-chance	Frank镜头独白；硬币类比拆解制度偶然性，修辞完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-55	S05E05	canonical	003	00:02:44.330	00:03:32.170	twelfth-amendment	用1800年选举和第十二修正案解释当前制度漏洞，历史叙述完整，讽刺与信息密度兼具。	high	audio-unconfirmed; novel Frank direct-to-camera aside; political/institutional language; preserve original mix	frank-new	KEEP
-56	S05E08	extended	X01	00:02:37.400	00:03:30.130	elite-club-and-real-power	Frank开场独白；精英仪式、真实权力与选举目的完整展开。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-57	S05E11	extended	X01	00:03:53.650	00:04:53.470	censure-and-credibility	Frank、Claire、Usher连续会议；弹劾应对、折中与信用攻防。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-58	S05E11	canonical	007	00:09:56.320	00:10:14.470	always-known-you-were-there	Frank直接对镜头承认自己早已知道观众在场，同时表达对关注的矛盾感；完整、自然且角色感强。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
-59	S05E13	extended	X04	00:21:48.800	00:22:28.480	power-over-office-and-love	Frank镜头独白；回归、办公室权力与爱情告白完整收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-60	S05E13	extended	X06	00:48:35.120	00:49:28.700	claires-national-address	Claire的完整全国讲话；从国家危险、牺牲推进到行动号召，适合练习危机中的有序论证。	high	audio-unconfirmed; war/crisis context; preserve original mix	dialogue-new	KEEP
-61	S06E05	extended	X01	00:06:58.410	00:07:40.210	claires-recipe-for-crazy	Claire面对镜头用“配方”解释公众形象如何被制造；隐喻连续、语义闭合，适合识别和模仿修辞。	high	audio-unconfirmed; plot/political manipulation context; preserve original mix	dialogue-new	KEEP
-62	S06E05	extended	X02	00:15:45.980	00:16:44.830	secret-succession-plan	Usher与内阁连续会议；从迟疑推进到以国家存续包装政变。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-63	S06E05	extended	X04	00:26:01.350	00:26:52.650	dignified-exit-argument	Usher劝Claire退场；通过连续失去清单压缩政治危机，语义完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-64	S06E06	extended	X01	00:03:39.420	00:04:26.180	claires-public-response-and-boundary	Claire面对公众回应攻击，从私人痛苦讲到明确决定和边界；完整的直接对镜长表达，适合学习立场陈述。	high	audio-unconfirmed; sensitive abortion/political context; preserve original mix	dialogue-new	KEEP
-65	S06E06	extended	X05	00:40:37.810	00:41:25.480	credibility-and-manipulation	Claire与Tom对话；采访开局完整展示话语操控与可信度攻防。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
-66	S06E06	extended	X06	00:52:22.640	00:53:13.100	legacy-pregnancy-and-power	Claire与Doug连续对话；遗产条款逐层揭示胎儿与权力继承。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+6	S01E04	extended	X03	00:09:47.210	00:10:43.600	zoe-promotion	Tom 与 Zoe：修复紧张关系，提出升职机会，接受犹豫并设定答复期限。	high	audio-unconfirmed; Career / repair / deadline	dialogue-additional	KEEP
+7	S01E04	extended	X05	00:28:24.280	00:28:58.040	claire-formal-testimony	Claire的完整听证陈述；有论点、功能细节、量化信息和正式收束，适合练习结构化长表达。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+8	S01E05	extended	X03	00:08:12.950	00:08:46.790	job-offer-negotiation	Frank 与 Zoe：表达兴趣，设置时间边界，邀请明确反报价。	high	audio-unconfirmed; Recruitment / negotiation	dialogue-additional	KEEP
+9	S01E05	extended	X06	00:46:49.180	00:47:32.810	peter-opportunity-and-accountability	Frank与Peter连续对话；机会、支持和个人责任形成闭环。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+10	S01E06	canonical	005	00:01:46.780	00:02:05.800	worst-position-square-one	片头完整分析困局：比较不同失败路径，再落到退回原点的风险，适合学习如何有条理地说明压力和选择。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+11	S01E06	extended	X03	00:27:10.060	00:28:09.050	campaign-launch-and-sobriety	Frank与Peter完整启动对话；竞选安排与戒酒底线清楚。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+12	S01E07	canonical	001	00:04:13.940	00:04:38.640	wake-up-call-from-god	以事故和复苏经历讲述“来自上帝的警钟”，叙事闭合、画面感强，是一段完整人物独白。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+13	S01E07	extended	X06	00:48:14.450	00:48:45.580	secrets-and-identity	Frank收尾独白；秘密、伪装与身份原则收束明确。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+14	S01E10	extended	X02	00:15:15.630	00:15:48.400	revolt-and-resolve	Frank镜头独白；盘点倒戈后做出继续推进的决断。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+15	S01E11	extended	X03	00:19:16.650	00:20:04.800	simplify-the-relationship	Frank 与 Zoe：回顾共同经历，重设关系边界并确认信任。	medium	audio-unconfirmed; Classic / power-dynamic recognition	dialogue-additional	KEEP
+16	S01E12	canonical	077	00:48:30.600	00:48:47.430	power-money-purchased-souls	区分财富与权力，再解释“被购买的灵魂”为什么危险；虽短但论点完整，属于 Frank 的核心权力隐喻。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+17	S02E01	extended	X01	00:05:56.490	00:06:52.950	leadership-pitch-to-jackie	Frank招募Jackie；职业目标、竞争与可执行支持完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+18	S02E01	extended	X05	00:46:26.000	00:46:58.810	trap-and-survival-rule	Frank收尾独白；隐喻连续展开并落到生存规则。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+19	S02E03	extended	X01	00:00:07.380	00:00:42.520	sharpening-a-policy-line	Frank与写作者共同打磨开场文字；从铺垫、升级到收束，展示如何把普通句子改得更有力度。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+20	S02E03	extended	X05	00:35:11.700	00:36:10.990	vote-math-and-coalition	Frank连续策略对话；约束、票数、激励和程序形成闭环。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+21	S02E04	extended	X03	00:19:22.760	00:20:14.550	grief-coping-and-acceptance	Frank与Donald谈失去亲人的应对方式；从个人痛苦自然转向共情和接受，情绪完整且不跨场景。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+22	S02E07	canonical	029	00:20:04.060	00:20:26.200	trap-keep-to-myself	Frank 发现资金链真相后的完整内心推演：比较告密与隐瞒的代价，适合精听决策和风险表达。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+23	S02E08	extended	X04	00:27:32.750	00:28:31.640	power-and-status-confrontation	Frank与Linda连续冲突；越权、资历与职权边界正面交锋。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+24	S02E09	extended	X05	00:36:16.280	00:36:50.740	freddys-accountability-and-dignity	Freddy回望犯罪、父职亏欠与自立；是一段具体、克制的人物自省，适合精听叙事和价值表达。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+25	S02E09	extended	X06	00:37:38.970	00:37:59.230	hypocrisy-and-no-regret	Frank镜头独白；虚伪判断与权力规则短促收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+26	S02E11	canonical	030	00:13:28.120	00:13:44.790	achilles-heel-exposed	把连续撒谎后的暴露感比作 Achilles 的脚踵，隐喻完整、句子连续，适合背诵但保留人物化语气。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+27	S02E12	extended	X03	00:19:04.710	00:19:35.300	claire-jackie-reset	Claire 与 Jackie：结束冲突、承认错误、提出重新合作。	high	audio-unconfirmed; Apology / collaboration	dialogue-additional	KEEP
+28	S02E12	extended	X05	00:43:25.130	00:44:15.570	impeachment-as-politics	Frank、Claire、Jackie连续讨论；改革成果、身份绑定与政治现实完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+29	S02E13	extended	X03	00:23:22.830	00:24:18.370	typewriter-and-three-truths	Frank信件旁白；家族遗产、帝国与三个真相完整展开。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+30	S03E01	canonical	001	00:01:56.300	00:02:51.880	line-at-my-funeral	对父亲墓碑的完整倾诉：从总统车队、家庭贫困和孤独推进到自己的葬礼，叙事完整且具有强烈角色声音。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+31	S03E01	extended	X03	00:29:34.900	00:30:21.330	reform-and-unpopular-action	Frank用数据和民调说明改革必要性；论证完整且自然连续。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+32	S03E02	extended	X05	00:41:35.880	00:42:25.140	welfare-and-work	Frank全国演说；福利诊断、自立与工作承诺完整闭合。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+33	S03E04	extended	X04	00:31:23.300	00:32:19.750	campaign-motive-and-moral-legitimacy	Frank与Dunbar连续对话；竞选动机升级为权力与道德争论。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+34	S03E06	extended	X01	00:02:24.870	00:03:15.930	real-story-behind-the-polish	Frank向Thomas讲真实经历；去包装化叙事完整，适合跟读。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+35	S03E07	extended	X02	00:12:31.170	00:13:09.560	family-framing-and-truth	Yates采访Frank；家庭包装被连续追问拆解，语义完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+36	S03E08	extended	X05	00:39:55.110	00:40:47.250	failure-to-new-mandate	Frank与Thomas连续对话；挫败被重构为参选理由和新叙事起点。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+37	S03E08	canonical	045	00:41:05.980	00:41:17.500	imagination-courage	Frank承认自己编造游泳故事，并由此落到“想象也是勇气”的完整判断；优美、易背，适合长期复听。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+38	S03E10	extended	X01	00:02:35.390	00:03:24.060	local-sacrifice-global-duty	Frank市民会谈；承认局部代价后提升到全球责任。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+39	S03E13	extended	X02	00:28:21.640	00:29:14.650	talk-honestly	Claire 与 Thomas：请求坦诚交流，并处理关系中的记忆与不确定性。	medium	audio-unconfirmed; Classic / relationship context	dialogue-additional	KEEP
+40	S04E02	extended	X05	00:27:10.420	00:28:00.980	marriage-power-conflict	Frank与Claire连续争执；交易质问从胜算转入明确威胁。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+41	S04E02	canonical	033	00:29:55.370	00:31:59.450	bring-out-my-ax	两分钟以上的完整童年故事：Walter爬树、Frank用斧头制造“动机”，最后回扣 Claire；长叙事结构清楚，适合精听和背诵。	high	audio-unconfirmed; novel Frank direct-to-camera aside; plot/violence and threat content; preserve original mix	frank-new	KEEP
+42	S04E03	extended	X03	00:20:08.350	00:20:58.240	fear-as-political-theater	Frank内阁简报；用有限行动制造政变恐惧，论点完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+43	S04E04	extended	X03	00:18:52.110	00:19:36.580	shared-presidency-and-listening	Frank公开演讲；把抗议者重定义为领导者应倾听的对象。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+44	S04E04	extended	X05	00:36:18.950	00:37:10.680	claire-and-the-third-option	Claire先解除模仿前任的束缚，再用隐喻推动团队创造第三方案；完整呈现重新定义问题和提出选择。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+45	S04E06	extended	X06	00:42:32.840	00:43:17.630	not-first-lady	Claire 与 Frank：先认可方案，再说明困难并澄清合作角色。	high	audio-unconfirmed; Classic / boundary / power	dialogue-additional	KEEP
+46	S04E07	extended	X02	00:08:59.010	00:09:43.610	running-mate-offer	Frank 与 Blythe：承认依赖、肯定能力、提出邀请并说明责任。	high	audio-unconfirmed; Recruitment / duty / leadership	dialogue-additional	KEEP
+47	S04E07	extended	X03	00:16:54.710	00:17:49.740	data-votes-and-surveillance	Frank镜头独白；数据、选票和监控形成完整武器隐喻。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+48	S04E07	extended	X04	00:22:55.290	00:23:47.640	first-conway-confrontation	Frank与Conway首次正面对抗；法律、自治与腐败指控逐层升级。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+49	S04E07	canonical	024	00:24:14.980	00:24:40.780	pull-an-oar	借 Sulla 和 Marius 的历史故事落到“先学会划桨，再掌舵”，完整、节奏稳、适合背诵权力隐喻。	high	audio-unconfirmed; novel Frank direct-to-camera aside; historical/violent reference; preserve original mix	frank-new	KEEP
+50	S04E07	canonical	031	00:31:17.650	00:31:30.390	stink-of-lie	把良知和谎言的气味作连续类比，句子闭合、节奏鲜明，适合精听讽刺性表达。	high	audio-unconfirmed; novel Frank direct-to-camera aside; character-specific language; preserve original mix	frank-new	KEEP
+51	S04E08	canonical	003	00:03:46.930	00:04:11.230	leaderships-choice	完整评估副总统候选人：先列事实优势，再转入缺点和讽刺判断，适合学习结构化评价。	high	audio-unconfirmed; novel Frank direct-to-camera aside; political and character-specific language; preserve original mix	frank-new	KEEP
+52	S04E08	extended	X05	00:28:27.840	00:29:23.580	writing-the-ending-and-telling-the-truth	Tom、Claire与Frank围绕小说结局和婚姻真相展开连续对话；问答自然，适合练习含蓄追问与回应。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+53	S04E10	extended	X04	00:37:00.850	00:37:58.760	better-story-than-truth	Frank与Durant对话；媒体时钟、遗产和“更好的故事”完整推进。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+54	S04E10	extended	X05	00:38:36.380	00:39:32.530	murder-confession-and-self-defense	Frank向Durant连续认罪并解释动机；经典但含暴力情节，适合纯享识别。	medium	audio-unconfirmed; plot/violence content	original-49	KEEP
+55	S04E12	extended	X03	00:12:47.510	00:13:27.380	flaw-as-strategic-leverage	Frank镜头独白；将对手弱点转成可预测的战略杠杆。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+56	S04E13	extended	X06	00:44:40.470	00:45:36.980	leadership-against-fear	Frank全国讲话；从领导问题推进到对抗恐惧的生存责任。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+57	S05E02	extended	X02	00:08:03.160	00:08:55.000	policy-language-and-election-goal	Frank镜头独白；公开法律措辞与真实选举目标形成反差。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+58	S05E02	canonical	029	00:40:08.510	00:41:35.700	failure-imagination	以生火步骤展开关于“利用眼前资源”的完整类比，最后落到 imagination；连续、优美且适合复述。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+59	S05E04	extended	X06	00:41:12.380	00:41:56.590	parental-power-and-written-dreams	Frank与Claire镜头独白；家长式权力逻辑完整收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+60	S05E05	extended	X01	00:01:18.150	00:02:01.430	franks-three-branches-in-crisis	Frank用完整独白解释僵局如何同时冻结三权；论点层层推进，适合练习抽象问题的结构化说明。	high	audio-unconfirmed; preserve original mix	dialogue-new	KEEP
+61	S05E05	extended	X02	00:02:02.330	00:02:42.500	coin-philosophy-and-institutional-chance	Frank镜头独白；硬币类比拆解制度偶然性，修辞完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+62	S05E05	canonical	003	00:02:44.330	00:03:32.170	twelfth-amendment	用1800年选举和第十二修正案解释当前制度漏洞，历史叙述完整，讽刺与信息密度兼具。	high	audio-unconfirmed; novel Frank direct-to-camera aside; political/institutional language; preserve original mix	frank-new	KEEP
+63	S05E08	extended	X01	00:02:37.400	00:03:30.130	elite-club-and-real-power	Frank开场独白；精英仪式、真实权力与选举目的完整展开。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+64	S05E11	extended	X01	00:03:53.650	00:04:53.470	censure-and-credibility	Frank、Claire、Usher连续会议；弹劾应对、折中与信用攻防。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+65	S05E11	canonical	007	00:09:56.320	00:10:14.470	always-known-you-were-there	Frank直接对镜头承认自己早已知道观众在场，同时表达对关注的矛盾感；完整、自然且角色感强。	high	audio-unconfirmed; novel Frank direct-to-camera aside; preserve original mix	frank-new	KEEP
+66	S05E13	extended	X04	00:21:48.800	00:22:28.480	power-over-office-and-love	Frank镜头独白；回归、办公室权力与爱情告白完整收束。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+67	S05E13	extended	X06	00:48:35.120	00:49:28.700	claires-national-address	Claire的完整全国讲话；从国家危险、牺牲推进到行动号召，适合练习危机中的有序论证。	high	audio-unconfirmed; war/crisis context; preserve original mix	dialogue-new	KEEP
+68	S06E05	extended	X01	00:06:58.410	00:07:40.210	claires-recipe-for-crazy	Claire面对镜头用“配方”解释公众形象如何被制造；隐喻连续、语义闭合，适合识别和模仿修辞。	high	audio-unconfirmed; plot/political manipulation context; preserve original mix	dialogue-new	KEEP
+69	S06E05	extended	X02	00:15:45.980	00:16:44.830	secret-succession-plan	Usher与内阁连续会议；从迟疑推进到以国家存续包装政变。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+70	S06E05	extended	X04	00:26:01.350	00:26:52.650	dignified-exit-argument	Usher劝Claire退场；通过连续失去清单压缩政治危机，语义完整。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+71	S06E06	extended	X01	00:03:39.420	00:04:26.180	claires-public-response-and-boundary	Claire面对公众回应攻击，从私人痛苦讲到明确决定和边界；完整的直接对镜长表达，适合学习立场陈述。	high	audio-unconfirmed; sensitive abortion/political context; preserve original mix	dialogue-new	KEEP
+72	S06E06	extended	X05	00:40:37.810	00:41:25.480	credibility-and-manipulation	Claire与Tom对话；采访开局完整展示话语操控与可信度攻防。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
+73	S06E06	extended	X06	00:52:22.640	00:53:13.100	legacy-pregnancy-and-power	Claire与Doug连续对话；遗产条款逐层揭示胎儿与权力继承。	high	audio-unconfirmed; preserve original mix	original-49	KEEP
